@@ -1,0 +1,328 @@
+// _sass/custom/custom.scss - Just the Docs override file
+
+$green-dark:    #2D5A27;
+$green-darker:  #1F3F1D;
+$green-light:   #90B77D;
+$green-pale:    #F0F7ED;
+
+$off-white:     #f9f7f2 ;
+$orange-light:  #f0bc69;
+$orange-lighter:#f5de8f;
+$accent:        #0390c9;
+$blue-dark:     #1b2945;
+
+// Colors - Navigation
+$nav-text:      $off-white;
+$nav-hover:   #2D6A4F;
+$nav-active:  #40916C;
+$nav-border:  #52B788;
+
+// Breakpoints
+$breakpoints: (
+  'sm': 20rem,
+  'md': 31.25rem,
+  'lg': 50rem
+);
+
+body {
+  font-size: 1.1rem;
+}
+
+hr {
+  background-color: $orange-lighter;
+}
+
+.side-bar {
+  background-color: $green-darker;
+  color: $nav-text;
+  font-family: Tahoma, Verdana, Arial, sans-serif;
+  font-weight: 100;
+  padding-left: 1rem;
+  padding-right: 1rem;
+}
+
+.site-header {
+  margin-top: 0;
+  border-bottom: 1px solid $orange-light;
+  font-size: 1.1rem;
+  min-height: 110px;
+}
+
+.site-title {
+  color: $nav-text;
+  font-weight: 500;
+  font-size: 1.6rem;
+  padding-left: 0.5rem;
+  padding-right: unset;
+  
+  &:hover {
+    background-image: none;
+  }
+}
+
+.site-nav {
+  padding-top: 0.5rem;
+}
+
+ul.nav-list .nav-list-item .nav-list-link {
+  background-image: none;
+  color: $nav-text !important;
+  font-weight: 100;
+  font-size: 1.1rem;
+  padding: 0.25rem 1rem 0.25rem 0.5rem;
+  margin: 0.1rem 0;
+  word-wrap: break-word;
+  white-space: normal;
+    
+  &:hover {
+    background-color: $nav-hover;
+    background-image: none;
+    color: $off-white;
+  }
+
+  &:visited {
+    color: $nav-text !important;
+  }
+    
+  &.active {
+    background-image: none;
+    background-color: $nav-active;
+    font-weight: 600;
+    color: $nav-text !important;
+  }
+}
+
+.site-footer {
+  padding-left: 0.5rem;
+  padding-right: 0.5rem;
+  color: #959396;
+
+  a {
+    color: #959396;
+    font-weight: 300;
+    
+    &:hover {
+      color: #959396;
+    }
+    
+    &:visited {
+      color: #959396;
+    }
+  }
+}
+
+.main {
+  padding: 0;
+  min-height: 100vh;
+  max-width: unset;
+}
+
+.main-content-wrap {
+  padding-top: 0;
+}
+
+.main-content {
+  line-height: 1.4;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+
+  p, li {
+    font-weight: 400;
+  }
+  
+  strong {
+    color: $green-darker;
+    font-weight: 600;
+  }
+  
+  a {
+    color: $green-dark;
+    text-decoration: underline;
+    font-weight: 500;
+    
+    &:hover {
+      color: $orange-light;
+    }
+    
+    &:visited {
+      color: $green-darker;
+    }
+  }
+}
+
+#main-header {
+  background: unset;
+  border: none;
+  height: 100%; // overrides Just the Docs
+}
+
+
+.aux-nav {
+  font-weight: 500 !important;
+  background: unset;
+
+  .aux-nav-list {
+    background: unset;
+  }
+
+  .aux-nav-list-item {
+    margin-left: 0.5rem;
+    background: #e3e3e3;    
+
+    &:hover {
+    }
+  }
+}
+
+
+a.site-button {
+    
+    &:hover {
+      color: $green-darker;
+      background: $orange-lighter;
+    }
+    
+    &:visited {
+      color: $green-darker;
+    }
+}
+
+.search-input {
+  background-color: $green-pale;
+  border: 1px solid $nav-border;
+  color: #013410;
+  
+  &::placeholder {
+    color: rgba(33, 52, 53, 0.7);
+  }
+  
+  &:focus {
+    background-color: $orange-light;
+    border-color: $nav-border;
+  }
+}
+
+.breadcrumb-nav-list {
+
+}
+
+.breadcrumb-nav-list-item {
+  font-size: 1.1rem;
+  
+  a {
+    color: $green-dark;
+    font-weight: 500;
+  }
+  &:visited{
+    color: $green-dark;
+  }
+}
+
+// headers in main content
+.main-content {
+  h1 {
+    margin-top: 0;
+    font-size: 3rem !important;
+    font-family: Tahoma, Verdana, Arial, sans-serif;
+    color: #333333;
+
+    -webkit-text-stroke: 1.5px #333;
+    -webkit-text-fill-color: transparent;
+
+    border-bottom: 4px double #bc8b62;
+    clear: right; // keeps border line from overlapping floating images
+    line-height: 1.2;
+    font-weight: 700;
+    letter-spacing: -0.02em;
+  }
+
+  h2 {
+    margin-top: 0;
+    font-family: Tahoma, Verdana, Arial, sans-serif;
+    color: #555555;
+    font-weight: 500;
+    font-size: 1.7rem !important;
+    letter-spacing: -0.05em;
+    border-bottom: 1px solid $orange-lighter;
+    clear: right; // keeps border line from overlapping floating images
+  }
+
+  h3, h4, h5, h6 {
+    margin: 0;
+    font-family: Verdana, Arial, sans-serif;
+    text-decoration: underline;
+    color: #555555;
+    font-weight: 500;
+    letter-spacing: -0.05em;
+    font-size: 1.1rem !important;
+  }
+}
+
+.float-right-third {
+  float: right;
+  width: calc(33% - 1rem);
+  margin: 0.5rem 0 0.5rem 1rem;
+}
+
+.captioned-image {
+  //background: $content-background-color;
+
+  figcaption {
+    color: $green-dark;
+    font-size: 0.9rem;
+    line-height: 0.9;
+  }
+}
+
+blockquote {
+  clear: right; // callouts will appear below floating photos, like h1 and h2
+}
+
+// Responsive layout adjustments
+@media (max-width: map-get($breakpoints, 'md')) {
+
+}
+
+@media (max-width: map-get($breakpoints, 'sm'))
+{
+  .nav-list .nav-list-item .nav-list-link {
+    padding: 0.5rem; // Tighter padding
+  }
+
+  .float-right-third, .float-right-third {
+    float: right;
+    width: auto; // let them take up the full column if needed
+    margin: 0.5rem 0.5rem;
+  }
+}
+
+// Print-only styles.
+@media print {
+  .side-bar,
+  .page-header,
+  .site-header {
+    display: none;
+  }
+
+  .body {
+    font-size: 0.9rem;
+  }
+
+  .main-content {
+    max-width: auto;
+    width: auto;
+    padding: 0;
+    margin: 0;
+    line-height: 1.2;
+  }
+
+  .main-content-wrap {
+    padding: 0;
+    margin: 0;
+    max-width: auto;
+    width: auto;
+  }
+
+  .side-bar + .main {
+    margin: auto;
+  }
+}
