@@ -78,4 +78,4 @@ Squash freezes well as cleaned and processed raw flesh and as a cooked puree.
 7. One the fruit cools sufficiently, use a large spoon or scoop to separate the roasted flesh from the rind. Use a potato masher, food processor, or similar approach to mix the flesh until it reaches puree consistency.
 
 {: .warning }
-Because the rind of a hard shell squash fruit does not soften with roasting, be careful to make sure to avoid getting pieces of shell into the puree.
+Because the rind of a hard shell squash fruit does not soften with roasting, be careful to make sure to avoid getting pieces of shell into the puree if yours has a hard shell.
