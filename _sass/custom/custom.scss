@@ -30,6 +30,7 @@ body {
 
 hr {
   background-color: $orange-lighter;
+  clear: right; // clear floating images
 }
 
 .side-bar {
