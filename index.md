@@ -4,7 +4,7 @@ layout: home
 nav_order: 0
 ---
 
-# About this project
+# The Commonwealth Cushaw Project
 
 ![Collage of cushaw squash in various locations](assets/images/cushaw-homepage-banner-1000x250.png)
 
