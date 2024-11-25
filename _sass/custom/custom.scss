@@ -289,7 +289,7 @@ blockquote, p.note, p.warning, p.important, p.idea {
   }
 
   .float-right-third, .float-right-third {
-    float: right;
+    float: none;
     width: auto; // let them take up the full column if needed
     margin: 0.5rem 0.5rem;
   }
