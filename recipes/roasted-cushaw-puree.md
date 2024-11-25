@@ -13,7 +13,7 @@ Cushaw puree can be prepared using several methods. Oven-roasting the squash may
 For a large winter squash fruit, a cook might store the fruit for a few months whole at room temperature. Then when the squash is first needed, the cook might prepare half of it, and freeze the other half either raw or as puree.
 
 {: .note }
-Squash can be frozen both as cleaned and processed raw fruit and a cooked puree.
+Squash can be frozen either as clean raw fruit or as cooked puree.
 
 {% include caption-image.html url="/assets/images/recipes/roasted-cushaw-puree/finished-cushaw-puree-thumbnail.jpg" alt="Mashing roasted cushaw flesh" caption="A potato masher used to bring the roasted cushaw to puree consistency." %}
 {:class="float-right-third"}
