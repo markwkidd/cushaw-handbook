@@ -18,7 +18,7 @@ This recipe comes to us by way of Wheelersburg, Ohio, from Mark Kidd's grandmoth
 ## Ingredients
 
 - 1 unbaked pie shell
-- 2 cups [cushaw puree](roasted-cushaw-puree.md)
+- 2 cups [cushaw puree]( {{ roasted-cushaw-puree.md | relative_url } )
 - 1 can sweetened condensed milk
 - 2 eggs
 - 1/2 tsp. salt
