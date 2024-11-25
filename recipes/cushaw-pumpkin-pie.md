@@ -38,5 +38,7 @@ This recipe comes to us by way of Wheelersburg, Ohio, from Mark Kidd's grandmoth
 
 1. Preheat oven to 425 degrees Fahrenheit.
 2. In a large bowl, combine ingredients; mix well and turn into shell.
-3. Bake 15 minutes, then reduce oven heat to 350 degrees and continue baking 30 minutes or until a knife inserted 1 inch from the edge comes out clean.
-4. Cool completely before cutting and serving. Garnish if desired with whipped cream and nuts.
+3. Bake 15 minutes, then reduce oven heat to 350 degrees and continue baking approximately 40 minutes. The sides of the pie will be set but the center will still be wobbly. A knife inserted 1 inch from the edge will come out clean.
+4. Cool the pie completely before cutting and serving. Garnish if desired with whipped cream and nuts.
+
+Pies should be stored in the refrigerator and will keep for a few days. You can also freeze a pie immediately after it cools down by wrapping the pie tightly in layers of plastic wrap.
