@@ -1,9 +1,9 @@
 ---
 parent: Recipes
-title: Roasted cushaw puree
+title: Roasted Cushaw Puree
 layout: default
 has_children: false
-nav_order: 4
+nav_order: 10
 ---
 
 # Roasted Cushaw Puree

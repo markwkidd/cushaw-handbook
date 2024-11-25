@@ -3,7 +3,7 @@ parent: Recipes
 title: Cushaw Pumpkin Pie
 layout: default
 has_children: false
-nav_order: 4
+nav_order: 40
 ---
 
 # Cushaw Pumpkin Pie
