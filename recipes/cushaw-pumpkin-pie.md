@@ -22,7 +22,7 @@ This recipe calls for cushaw puree. [A recipe for cushaw puree](../roasted-cusha
 
 - 1 unbaked pie shell
 - 2 cups [cushaw puree](../roasted-cushaw-puree)
-- 1 can sweetened condensed milk
+- 1 can sweetened condensed milk (10 fluid ounces or 14 ounces by weight)
 - 2 eggs
 - 1/2 tsp. salt
 - 1/2 tsp. ginger
