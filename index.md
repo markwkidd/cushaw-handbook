@@ -4,7 +4,7 @@ layout: home
 nav_order: 0
 ---
 
-# The Commonwealth Cushaw guide
+# About the guide
 
 ![Collage of cushaw squash in various locations](assets/images/cushaw-homepage-banner-1000x250.png)
 
