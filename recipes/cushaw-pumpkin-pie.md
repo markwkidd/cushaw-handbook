@@ -21,7 +21,7 @@ This recipe calls for cushaw puree. [A recipe for cushaw puree]( {{ 'roasted-cus
 ## Ingredients
 
 - 1 unbaked pie shell
-- 2 cups [cushaw puree]( {{ roasted-cushaw-puree.md | relative_url }} )
+- 2 cups [cushaw puree]( {{ roasted-cushaw-puree | relative_url }} )
 - 1 can sweetened condensed milk
 - 2 eggs
 - 1/2 tsp. salt
