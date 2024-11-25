@@ -1,10 +1,10 @@
 ---
-title: Commonwealth Cushaw Project
+title: About this project
 layout: home
 nav_order: 0
 ---
 
-# About the guide
+# About this project
 
 ![Collage of cushaw squash in various locations](assets/images/cushaw-homepage-banner-1000x250.png)
 
