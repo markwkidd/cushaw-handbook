@@ -30,7 +30,7 @@ This recipe comes to us by way of Wheelersburg, Ohio, from Mark Kidd's grandmoth
 - Large mixing bowl
 - Pie pan
 - Mixing spoon
-- Metal knife
+- (Optional) Metal knife for testing
 
 ## Instructions
 
