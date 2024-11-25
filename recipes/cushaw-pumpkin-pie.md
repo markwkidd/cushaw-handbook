@@ -8,6 +8,9 @@ nav_order: 40
 
 # Cushaw Pumpkin Pie
 
+![Two cushaw pumpkin pies cooling in the oven]( {{ '/assets/images/recipes/cushaw-pumpkin-pie/cushaw-pumpkin-pie-thumbnail.jpg' | relative_url }} )
+{:class="float-right-third"}
+
 There is a long tradition of baking desert pies from cushaw squash. In some areas, cushaws are even known as 'pie pumpkins'.
 
 This recipe comes to us by way of Wheelersburg, Ohio, from Mark Kidd's grandmother who received it as part of a community cookbook as "Peter's Pumpkin Pie". This recipe may have been historically promoted by a condensed milk brand.
