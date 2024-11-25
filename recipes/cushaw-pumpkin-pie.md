@@ -15,6 +15,9 @@ There is a long tradition of baking desert pies from cushaw squash. In some area
 
 This recipe comes to us by way of Wheelersburg, Ohio, from Mark Kidd's grandmother who received it as part of a community cookbook as "Peter's Pumpkin Pie". This recipe may have been historically promoted by a condensed milk brand.
 
+{: .note }
+This recipe calls for cushaw puree. [A recipe for cushaw puree]( {{ roasted-cushaw-puree.md | relative_url } ) is available in this handbook.
+
 ## Ingredients
 
 - 1 unbaked pie shell

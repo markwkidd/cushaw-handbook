@@ -66,7 +66,6 @@ Because the rind of a hard shell squash fruit does not soften with roasting, be 
 {% include caption-image.html url="/assets/images/recipes/roasted-cushaw-puree/cushaw-pumpkin-pieces-thumbnail.jpg" alt="The cut neck of a large cushaw squash fruit" caption="The dense flesh of the neck is generally processed separately from the flesh around the seed cavity" %}
 {:class="float-right-third"}
 
-
 {% include caption-image.html url="/assets/images/recipes/roasted-cushaw-puree/cutting-hardshell-cushaw-thumbnail.jpg" alt="Squash with hard shells are difficult to cut" caption="Cutting the flesh of a hardshell fruit starting from the inside allows the cook to use their hands to split the pieces if the knife doesn't completely separate the rind" %}
 {:class="float-right-third"}
 
