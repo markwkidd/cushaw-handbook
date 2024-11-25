@@ -17,7 +17,7 @@ This recipe comes to us by way of Wheelersburg, Ohio, from Mark Kidd's grandmoth
 {% include caption-image.html url="/assets/images/recipes/cut-fruit-with-seeds-350w.jpg" alt="Saved seeds in a colendar" caption="Seed saving and sharing is integrated into the guide" %}{:class="float-right-third"}
 
 - 1 unbaked pie shell
-- 2 cups cushaw pumpkin puree
+- 2 cups [cushaw puree](roasted-cushaw-puree.md)
 - 1 can sweetened condensed milk
 - 2 eggs
 - 1/2 tsp. salt
