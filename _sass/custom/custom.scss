@@ -272,11 +272,11 @@ blockquote, p.note, p.warning, p.important, p.idea {
 }
 
 // Responsive layout adjustments
-@media (max-width: map-get($breakpoints, 'md')) {
+@media (max-width: $md) {
 
 }
 
-@media (max-width: map-get($breakpoints, 'sm'))
+@media (max-width: $sm)
 {
   .nav-list .nav-list-item .nav-list-link {
     padding: 0.5rem; // Tighter padding
