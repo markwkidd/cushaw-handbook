@@ -17,6 +17,13 @@ $nav-hover:   #2D6A4F;
 $nav-active:  #40916C;
 $nav-border:  #52B788;
 
+// Breakpoints
+$breakpoints: (
+  'sm': 20rem,
+  'md': 31.25rem,
+  'lg': 50rem
+);
+
 body {
   font-size: 1.1rem;
 }
