@@ -3,7 +3,7 @@ description: An open repostory of information about cushaw squash from seed to p
 theme: just-the-docs
 
 url: https://markwkidd.github.io
-baseurl: cushaw-handbook
+#baseurl: cushaw-handbook # needed when the pages are served from a subfolder, like on github.io
 repository: markwkidd/crop-guides # for github-metadata
 
 permalink: pretty
