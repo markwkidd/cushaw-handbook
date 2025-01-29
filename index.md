@@ -10,7 +10,7 @@ nav_order: 0
 
 The guide is intended to help people grow and use tasty, nutritious cushaw squash. The information here about cultivation, recipes, and seed saving have been developed by other squash growers, and is published with an open license.
 
-This guide was initially developed by the Commonwealth Cushaw Project, a partnership of Handbarrow and Renew Appalachia in Kentucky, USA. It has been built with technical assistance and resources from the [Going to Seed](https://goingtoseed.org/) crop guide project.
+This guide was initially developed by the Commonwealth Cushaw Project, a partnership of [Handbarrow](https://handbarrow.org/) and [Renew Appalachia](https://renewappalachia.org/) in Kentucky, USA. It has been built with technical assistance and resources from the [Going to Seed](https://goingtoseed.org/) crop guide project.
 
 ## What is included?
 
