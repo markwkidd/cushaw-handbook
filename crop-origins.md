@@ -7,11 +7,10 @@ nav_order: 2
 
 # Crop origins
 
-![Drying seeds in a colendar just removed from cushaw fruit](../assets/images/recipes/cut-fruit-with-seeds-350w.jpg "Seed saving and sharing is integrated into the guide"){:class="float-right-third"}
 {: .note }
 > The following content was adapted from the Wikipedia article [Cucurbita argyrosperma](https://wikipedia.org/Cucurbita_argyrosperma). Unlike other parts of this guide that are offered without a Creative Commons "Share Alike" clause, the Wikipedia content is licensed with a [CC BY-SA license](https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_Creative_Commons_Attribution-ShareAlike_4.0_International_License).
 
-https://en.wikipedia.org/wiki/Cucurbita_argyrosperma
+![Drying seeds in a colendar just removed from cushaw fruit](../assets/images/recipes/cut-fruit-with-seeds-350w.jpg "Seed saving and sharing is integrated into the guide"){:class="float-right-third"}
 
 Like the other Cucurbita squash, all cushaws are native to the Americas.  The first example of a Curcubita species in cultivation is C. pepo which is believed to have been cultivated by inhabitants of Guilá Naquitz cave between 10,000 to 8,000 years ago.
 
