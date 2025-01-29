@@ -14,14 +14,10 @@ This guide was initially developed by the Commonwealth Cushaw Project, a partner
 
 # What are cushaws?
 
-**Cushaw**, or **kershaw**, is the most common name in English for the species of squash _Cucurbita argyrosperma_, and most squash that are called cushaws are part of that species. This guide will use cushaw interchangeably with _C. argyrosperma_.
+**Cushaw**, or **kershaw**, is the most common name in English for the botanical species of squash _Cucurbita argyrosperma_, and likewise most squash varieties that are called cushaws are part of that species. This guide will use cushaw interchangeably with the species _C. argyrosperma_.
 
 {: .note }
-> Most squash that are called cushaws are members of species _C. argyrosperma_. However, due to historic differences in classification, some squash from the species _Cucurbita moschata_ can still sometimes be found referred to as cushaws, for example the _Golden Cushaw_.
->This project does not pertain to pure C. moschata varieties like the Golden Cushaw, but does encompass hybrids between C. argyrosperma and other species, including C. moschata.
-
-![Drying seeds in a colander just removed from cushaw fruit]( {{ '/assets/images/recipes/cut-fruit-with-seeds-350w.jpg' | relative_url }} )
-{:class="float-right-third"}
+> Due to historic limitations in the understanding of squash species, some squash from species _Cucurbita moschata_ are referred to as cushaws, for example the _Golden Cushaw_. This guide is not focused on C. moschata varieties like the Golden Cushaw, but does encompass hybrids between C. argyrosperma and other species, including C. moschata.
 
 Different types of cushaw squash have been bred for different purposes, edible seeds, summer squash, and long-keeping winter squash. More information about cushaw classification can be found in [What are Cushaws?](what-are-cushaws.md) This guide was created by people growing C. argyrosperma winter squash cushaws that can be stored fresh for at least six months, but the information can be applied to other types. We welcome contributions to make this guide more useful to people growing the full spectrum of cushaw squash.
 
