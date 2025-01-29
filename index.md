@@ -17,7 +17,8 @@ This guide was initially developed by the Commonwealth Cushaw Project, a partner
 **Cushaw**, or **kershaw**, is the most common name in English for the species of squash _Cucurbita argyrosperma_, and most squash that are called cushaws are part of that species. This guide will use cushaw interchangeably with _C. argyrosperma_.
 
 {: .note }
-> Most squash that are called cushaws part of species _C. argyrosperma_. Because of historic differences in classification, some squash from the species _Cucurbita moschata_ can still sometimes be found referred to as cushaws, for example the _Golden Cushaw_.
+> Most squash that are called cushaws are members of species _C. argyrosperma_. However, due to historic differences in classification, some squash from the species _Cucurbita moschata_ can still sometimes be found referred to as cushaws, for example the _Golden Cushaw_.
+>This project does not pertain to pure C. moschata varieties like the Golden Cushaw, but does encompass hybrids between C. argyrosperma and other species, including C. moschata.
 
 ![Drying seeds in a colander just removed from cushaw fruit]( {{ '/assets/images/recipes/cut-fruit-with-seeds-350w.jpg' | relative_url }} )
 {:class="float-right-third"}
