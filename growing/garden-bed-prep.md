@@ -10,14 +10,14 @@ nav_order: 3
 
 ## Method 1: No-Till Cardboard Mulch
 
-### Materials Needed:
+### Tools and materials
 - Cardboard sheets (without glossy coating or tape)
 - Gardening tools (shovel, rake, wheelbarrow)
 - Water source (optional)
 - Rocks to hold down cardboard (optional)
 
-### Steps:
-1. **Site Preparation**
+### Steps
+1. **Initial Preparation**
    - Measure and mark the desired garden bed dimensions.
    - Remove any large rocks, sticks, or debris from the area.
    - Ideally, cardboard should be applied at three or more months in advance. Humid climates or manually wetting the cardboard can reduce this time.
@@ -37,21 +37,17 @@ nav_order: 3
    - This gives time for the cardboard to suppress weeds and decompose.
    - The layers will break down, improving ground conditions.
 
-## Method 2: Tilling Approach
+## Method 2: Tilling
 
-### Materials Needed:
+### Tools and materials
 - Rototiller or tractor with tilling attachment, etc.
 - Rake
 - Shovel
 - Wheelbarrow
 
-### Steps:
-1. **Site Selection**
-   - Choose a location with full sun exposure
-   - Verify good drainage
+### Steps
+1. **Initial Preparation**
    - Measure and mark garden bed dimensions
-
-2. **Initial Preparation**
    - Remove large rocks, sticks, and debris
    - Mow or cut existing grass and weeds as short as possible
 
@@ -65,10 +61,3 @@ nav_order: 3
    - Rake the area to create a smooth, level surface
    - Remove any remaining large clumps or roots
    - Create slight mounds or raised areas if drainage is a concern
-
-
-### Growing Tips:
-- This squash variety prefers warm soil temperatures (around 70°F)
-- Plant after the last frost date in your region
-- Space plants 3-4 feet apart in rows 6-8 feet apart
-- Provide support like trellises for vertical growth
