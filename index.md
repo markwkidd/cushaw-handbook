@@ -12,7 +12,12 @@ The guide is intended to help people grow and use tasty, nutritious cushaw squas
 
 This guide was initially developed by the Commonwealth Cushaw Project, a partnership of [Handbarrow](https://handbarrow.org/) and [Renew Appalachia](https://renewappalachia.org/) in Kentucky, USA. It has been built with technical assistance and resources from the [Going to Seed](https://goingtoseed.org/) crop guide project.
 
-## What is included?
+# What are cushaws?
+
+![Drying seeds in a colander just removed from cushaw fruit]( {{ '/assets/images/recipes/cut-fruit-with-seeds-350w.jpg' | relative_url }} )
+{:class="float-right-third"}
+
+This guide will focus on cultivating and using cushaw squash of the species Cucurbita argyrosperma, although there are also squash varieties traditionally known as cushaws which are classified as species Cucurbita moschata, and those which are interspecific hybrids between C. argyrosperma and C. moschata. Those two species are close relatives, and can be grown in the same way.
 
 Different types of cushaws have been bred for different purposes, edible seeds, summer squash, and long-keeping winter squash. Most squash traditionally called _cushaws_ are botanically classified as _[Cucurbita arygrosperma](https://en.wikipedia.org/wiki/Cucurbita_argyrosperma)_, but there are some cushaws of species _C. moshchata_. More information about cushaw classification can be found in [What are Cushaws?](what-are-cushaws.md)
 
