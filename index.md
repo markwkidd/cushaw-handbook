@@ -8,18 +8,16 @@ nav_order: 0
 
 ![Collage of cushaw squash in various locations](assets/images/cushaw-homepage-banner-1000x250.png)
 
-The guide is intended to help people grow and use tasty, nutritious cushaw squash. The information here about cultivation, recipes, and seed saving have been developed by other squash growers, and is published with an open license.
+**This guide is intended to help people grow and use tasty, nutritious cushaw squash.** It was initially developed by the Commonwealth Cushaw Project, a partnership of [Handbarrow](https://handbarrow.org/) and [Renew Appalachia](https://renewappalachia.org/) in Kentucky, USA. It has been built with technical assistance and resources from the [Going to Seed](https://goingtoseed.org/) crop guide project.
 
-This guide was initially developed by the Commonwealth Cushaw Project, a partnership of [Handbarrow](https://handbarrow.org/) and [Renew Appalachia](https://renewappalachia.org/) in Kentucky, USA. It has been built with technical assistance and resources from the [Going to Seed](https://goingtoseed.org/) crop guide project.
-
-# What are cushaws?
+## What are cushaws?
 
 **Cushaw**, or **kershaw**, is the most common name in English for the botanical species of squash _Cucurbita argyrosperma_, and likewise most squash varieties that are called cushaws are part of that species. This guide will use cushaw interchangeably with the species _C. argyrosperma_.
 
 {: .note }
-> Due to historic limitations in the understanding of squash species, some squash from species _Cucurbita moschata_ are referred to as cushaws, for example the _Golden Cushaw_. This guide is not focused on C. moschata varieties like the Golden Cushaw, but does encompass hybrids between C. argyrosperma and other species, including C. moschata.
+> Due to historic changes in the understanding of squash botany, some squash of species _Cucurbita moschata_ are referred to as cushaws, for example the _Golden Cushaw_. This guide is not focused on C. moschata varieties like the Golden Cushaw. That species requires similar growing conditions, but there are differences.
 
-Different types of cushaw squash have been bred for different purposes, edible seeds, summer squash, and long-keeping winter squash. More information about cushaw classification can be found in [What are Cushaws?](what-are-cushaws.md) This guide was created by people growing C. argyrosperma winter squash cushaws that can be stored fresh for at least six months, but the information can be applied to other types. We welcome contributions to make this guide more useful to people growing the full spectrum of cushaw squash.
+Different types of cushaw squash have been bred for different purposes such as edible seeds, summer squash, and long-keeping winter squash. Some types are used for more than one purpose. 
 
 ## Using and reusing the guide
 
