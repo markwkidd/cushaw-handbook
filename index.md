@@ -14,11 +14,14 @@ This guide was initially developed by the Commonwealth Cushaw Project, a partner
 
 # What are cushaws?
 
+**Cushaw**, or **kershaw**, is the most common name in English for the species of squash _Cucurbita argyrosperma_, and most squash that are called cushaws are part of that species. This guide will use cushaw interchangeably with _C. argyrosperma_.
+
 {: .note }
-> Cushaw, or kershaw, is the most common name in English for the species of squash _Cucurbita argyrosperma_, and that is how it is used in this guide. Most squash called cushaws are examples of species C. argyrosperma but due to changes over time in classification, some squash from the species _Cucurbita moschata_ are still sometimes commonly referred to as cushaws, like the _Golden Cushaw_.
+> Most squash that are called cushaws part of species _C. argyrosperma_. Because of historic differences in classification, some squash from the species _Cucurbita moschata_ can still sometimes be found referred to as cushaws, for example the _Golden Cushaw_.
 
 ![Drying seeds in a colander just removed from cushaw fruit]( {{ '/assets/images/recipes/cut-fruit-with-seeds-350w.jpg' | relative_url }} )
 {:class="float-right-third"}
+
 Different types of cushaw squash have been bred for different purposes, edible seeds, summer squash, and long-keeping winter squash. More information about cushaw classification can be found in [What are Cushaws?](what-are-cushaws.md) This guide was created by people growing C. argyrosperma winter squash cushaws that can be stored fresh for at least six months, but the information can be applied to other types. We welcome contributions to make this guide more useful to people growing the full spectrum of cushaw squash.
 
 ## Using and reusing the guide
