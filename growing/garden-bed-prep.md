@@ -1,5 +1,6 @@
 ---
 title: Preparing a new garden bed
+parent: About this project
 layout: default
 has_children: false
 nav_order: 3
@@ -16,12 +17,10 @@ nav_order: 3
 - Rocks to hold down cardboard (optional)
 
 ### Steps:
-1. **Site Selection**
-   - Choose a location that receives at least 6-8 hours of direct sunlight daily.
-   - Ensure the area has good drainage.
+1. **Site Preparation**
    - Measure and mark the desired garden bed dimensions.
    - Remove any large rocks, sticks, or debris from the area.
-   - Ideally, the cardboard should be applied at three or more months in advance. Humid climates or manually wetting the cardboard can reduce this time.
+   - Ideally, cardboard should be applied at three or more months in advance. Humid climates or manually wetting the cardboard can reduce this time.
 
 2. **Cardboard Layer**
    - Make sure there are no glossy coatings or tapes on the cardboard

@@ -14,7 +14,11 @@ nav_order: 20
 
 In general, cushaws will thrive under similar conditions to other squash. In Mexico near the likely origin of Curcubita argyrosperma, various strains of cushaws can be found growing in conditions that vary from intercropping with corn within intensive agricultural systems to feral and wild forms that self-seed.
 
-In cool northern hemisphere climates, an area facing south is often best.
+In cool northern hemisphere climates, an area facing south is often best. 
+Site Selection
+
+    Choose a location that receives at least 6-8 hours of direct sunlight daily.
+    Ensure the area has good drainage.
 
 ### Possibility of crossing
 
