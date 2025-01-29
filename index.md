@@ -13,6 +13,7 @@ The guide is intended to help people grow and use tasty, nutritious cushaw squas
 This guide was initially developed by the Commonwealth Cushaw Project, a partnership of [Handbarrow](https://handbarrow.org/) and [Renew Appalachia](https://renewappalachia.org/) in Kentucky, USA. It has been built with technical assistance and resources from the [Going to Seed](https://goingtoseed.org/) crop guide project.
 
 # What are cushaws?
+
 {: .note }
 > Cushaw, or kershaw, is the most common name in English for the species of squash _Cucurbita argyrosperma_, and that is how it is used in this guide. Most squash called cushaws are examples of species C. argyrosperma but due to changes over time in classification, some squash from the species _Cucurbita moschata_ are still sometimes commonly referred to as cushaws, like the _Golden Cushaw_.
 
