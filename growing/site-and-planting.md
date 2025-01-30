@@ -10,8 +10,6 @@ nav_order: 20
 
 ## Location
 
-![A young C. argyrosperma cushaw fruit grows on the vine](../../assets/images/growing/immature-argyrosperma-fruit-200w.jpg "Sprawling young cushaw vine"){:class="float-right-third"}
-
 In general, cushaws will thrive under similar conditions to other squash. They will not grow in soil that is waterlogged, but are somewhat tolerant of natural variations in humidity and rainfall.
 
 A soil pH between 6 and 8 is recommended. Cushaw squash can be grown outside those parameters, but may have trouble using nutrients at low or high pH. In addition to growing cushaws that are adapted to local soil conditions, growing in soil that is more fertile has been known to help squash counterbalance difficulty accessing nutrients due to pH.
