@@ -1,6 +1,6 @@
 ---
 title: Preparing a new garden bed
-parent: About this project
+parent: Growing guide
 layout: default
 has_children: false
 nav_order: 3
