@@ -151,7 +151,7 @@ a.site-button {
 }
 
 .search-input {
-  background-color: $green-pale;
+  background-color: $green-000;
   border: 1px solid $nav-border;
   color: #013410;
   
@@ -173,11 +173,11 @@ a.site-button {
   font-size: 1.1rem;
   
   a {
-    color: $green-dark;
+    color: $green-300;
     font-weight: 500;
   }
   &:visited{
-    color: $green-dark;
+    color: $green-300;
   }
 }
 
@@ -231,7 +231,7 @@ a.site-button {
 .captioned-image {
 
   figcaption {
-    color: $green-dark;
+    color: $green-darker;
     font-size: 0.9rem;
     line-height: 0.9;
   }
