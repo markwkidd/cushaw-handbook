@@ -6,11 +6,6 @@ html {
   color: $nav-text;
 }
 
-hr {
-  background-color: $orange-lighter;
-  clear: right; // clear floating images
-}
-
 .site-header {
   margin-top: 0;
   border-bottom: thick double $orange-light;
@@ -55,208 +50,120 @@ hr {
   color: $purple-100;
 }
 
-
-.site-footer {
-  padding-left: 0.5rem;
-  padding-right: 0.5rem;
-  color: #959396;
-
-  a {
-    color: #959396;
-    font-weight: 300;
+.site-nav ul li a {
+  background: none;
+  color: $nav-text !important;
+  word-wrap: break-word;
+  white-space: normal;
+  font-size: 1.05rem !important;
     
-    &:hover {
-      color: #959396;
-    }
+  &:hover {
+      background: $purple-000 !important;
+      color: $nav-text;
+  }
+
+  &:visited {
+      color: $nav-text !important;
+  }
     
-    &:visited {
-      color: #959396;
-    }
+  &.active {
+    background: $purple-100 !important;
+    font-weight: 600;
+    color: $nav-text !important;
   }
 }
 
-.main {
-  padding: 0;
-  min-height: 100vh;
-  max-width: unset;
+ul.nav-list .nav-list-item .nav-list-link {
+  padding: 0.25rem 1rem 0.25rem 0.5rem;
+}
+
+
+.site-button:hover {
+	background: #e8f2e0;
+}
+
+.breadcrumb-nav {
+    margin-top: 0.5rem;
 }
 
 .main-content-wrap {
-  padding-top: 0;
+    padding-top: 0;
 }
 
-.main-content {
-  line-height: 1.4;
-  font-family: Georgia, 'Times New Roman', Times, serif;
+.main-content h1:first-of-type {
+    margin-top: 0; // override just the docs top margin
+}
 
-  p, li {
+.main-content h1 {
+    font-size: 2.8em !important;
     font-weight: 400;
-  }
-  
-  strong {
-    color: $green-300;
-    font-weight: 600;
-  }
-  
-  a {
-    color: $green-darker;
-    text-decoration: underline;
-    font-weight: 500;
-    
-    &:hover {
-      color: $orange-light;
-    }
-    
-    &:visited {
-      color: $green-darker;
-    }
-  }
+    clear: right; // keeps border line from overlapping floating images
 }
 
-#main-header {
-  background: unset;
-  border: none;
-  height: 100%; // overrides Just the Docs
+.main-content h2 {
+    color: $purple-300;
 }
 
-
-.aux-nav {
-  font-weight: 500 !important;
-  background: unset;
-
-  .aux-nav-list {
-    background: unset;
-  }
-
-  .aux-nav-list-item {
-    margin-left: 0.5rem;
-    background: #e3e3e3;    
-
-    &:hover {
-    }
-  }
+.main-content h2, .main-content h3, .main-content h4 {
+    margin-top: 0.5rem;
 }
 
-
-a.site-button {
-    
-    &:hover {
-      color: $green-darker;
-      background: $orange-lighter;
-    }
-    
-    &:visited {
-      color: $green-darker;
-    }
+.main-content h4 {
+    font-size: 1.05em !important;
 }
 
-.search-input {
-  background-color: $green-000;
-  border: 1px solid $nav-border;
-  color: #013410;
-  
-  &::placeholder {
-    color: rgba(33, 52, 53, 0.7);
-  }
-  
-  &:focus {
-    background-color: $orange-light;
-    border-color: $nav-border;
-  }
+.main-content ul > li::before {
+    font-weight: 900;
 }
 
-.breadcrumb-nav-list {
-
-}
-
-.breadcrumb-nav-list-item {
-  font-size: 1.1rem;
-  
-  a {
-    color: $green-300;
-    font-weight: 500;
-  }
-  &:visited{
-    color: $green-300;
-  }
-}
-
-// headers in main content
 .main-content {
-  h1 {
-    margin-top: 0;
-    font-size: 3rem !important;
-    font-family: Arial, sans-serif;
-    color: $off-white;
 
-    -webkit-text-stroke: #333;
-    text-shadow: -1px 0 #333, 0 1px #333, 
-                  1px 0 #333, 0 -1px #333;
+  figure {
+      padding: 0;
+      background-color: $adaptation-tan;
 
-    border-bottom: 4px double #bc8b62;
-    clear: right; // keeps border line from overlapping floating images
-    line-height: 1.2;
-    font-weight: 700;
-    letter-spacing: -0.05em;
+      figcaption {
+          padding: 0 0.4rem 0.4rem 0.4rem;
+          font-size: 0.9rem;
+          line-height: 0.9;
+      }
   }
 
-  h2 {
-    margin-top: 0;
-    font-family: Tahoma, Verdana, Arial, sans-serif;
-    color: #555555;
-    font-weight: 500;
-    font-size: 1.7rem !important;
-    letter-spacing: -0.05em;
-    border-bottom: 1px solid $orange-lighter;
-    clear: right; // keeps border line from overlapping floating images
-  }
-
-  h3, h4, h5, h6 {
-    margin: 0;
-    font-family: Verdana, Arial, sans-serif;
-    text-decoration: underline;
-    color: #555555;
-    font-weight: 500;
-    letter-spacing: -0.05em;
-    font-size: 1.1rem !important;
-  }
 }
 
-.float-right-third {
-  float: right;
+hr {
+  background-color: $orange-lighter;
+  clear: right; // clear floating images
+}
+
+
+footer {
+  font-size: 0.8rem !important;
+}
+
+.third-size {
   width: calc(33% - 1rem);
+  margin: 0.5rem 0.5rem;
+}
+
+.float-right {
+  float: right;
   margin: 0.5rem 0 0.5rem 1rem;
 }
 
-.captioned-image {
-
-  figcaption {
-    color: $green-darker;
-    font-size: 0.9rem;
-    line-height: 0.9;
-  }
+.clear-right {
+  clear: right;
 }
+
 
 blockquote, p.note, p.warning, p.important, p.idea {
-  clear: right; // callouts will appear below floating photos, like h1 and h2
+  clear: right;           // callouts will appear below floating photos, like h1 and h2
+  border-radius: unset;   // match goingtoseed.org
+  box-shadow: unset;      // match goingtoseed.org
 }
 
-// Responsive layout adjustments
-@media (max-width: map-get($breakpoints, 'md')) {
-
-}
-
-@media (max-width: map-get($breakpoints, 'sm'))
-{
-  .nav-list .nav-list-item .nav-list-link {
-    padding: 0.5rem; // Tighter padding
-  }
-
-  .float-right-third, .float-right-third {
-    float: none;
-    width: auto; // let them take up the full column if needed
-    margin: 0.5rem 0.5rem;
-  }
+div.language-plaintext {
+  clear: right;
 }
 
 // Print-only styles.
@@ -286,7 +193,7 @@ blockquote, p.note, p.warning, p.important, p.idea {
     width: auto;
   }
 
-  .side-bar + .main {
-    margin: auto;
-  }
+  //.main {
+  //  margin: auto;
+  //}
 }
