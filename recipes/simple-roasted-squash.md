@@ -15,8 +15,6 @@ Placeholder: This is the section to introduce the recipe, share any interesting 
 
 ## Ingredients
 
-{% include caption-image.html url="/assets/images/recipes/cut-fruit-with-seeds-350w.jpg" alt="Saved seeds in a colendar" caption="Seed saving and sharing is integrated into the guide" %}{:class="float-right-third"}
-
 Placeholder
 
 ## Equipment and supplies
