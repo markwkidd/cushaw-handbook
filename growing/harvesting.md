@@ -13,7 +13,7 @@ nav_order: 50
 When night temperatures drop below 50 degrees Fahrenheit, cushaw vines may stop producing flowers.
 
 {: .note }
-> C. argyrospemera cushaws are believed to generally be **less sensitive to cold** than C. moschata winter squash. They are generally **more sensitive to cold** than C. ficifolia, C. maxima, or C. pepeo squash.
+> C. argyrospemera cushaws are believed to generally be **less sensitive to cold** than C. moschata winter squash. They are generally **more sensitive to cold** than C. ficifolia, C. maxima, or C. pepo squash.
 
 ## When are cushaw fruits mature?
 
