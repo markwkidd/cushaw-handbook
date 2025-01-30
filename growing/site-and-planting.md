@@ -16,9 +16,10 @@ A soil pH between 6 and 8 is recommended. Cushaw squash can be grown outside tho
 
 Cushaw vines can benefit from a small amount of shade, but choose a location that receives at least 6-8 hours of direct sunlight daily. In cool northern hemisphere climates, an area facing south is often best.
 
-### Possibility of crossing
-
-C. argyrosperma cushaws have been noted to form interspecific hybrids with other Cucurbita squash. However, these hybrids should be considered unlikely to occur via natural pollination. Cucurbita moschata is considered the most likely to hybridize with Cucurbita argyrosperma.
+{: .note-title }
+> Possibility of crossing
+>
+> C. argyrosperma cushaws have been noted to form interspecific hybrids with other species of Cucurbita squash through open pollination when the two species are growing near each other. This is a rare occurrence, and Cucurbita moschata is thought to be the most likely other species to form natural hybrids.
 
 ## When to plant outside
 
