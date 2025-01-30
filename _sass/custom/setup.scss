@@ -1,7 +1,6 @@
 $body-font-family: "Alegreya Sans", system-ui, -apple-system, blinkmacsystemfont, "Segoe UI", roboto, "Helvetica Neue", arial, sans-serif, "Segoe UI Emoji";
 $border-radius: 6px;
 
-
 $nav-text: white;
 $adaptation-purple: #28275e;
 $adaptation-tan:    #ece1cc;
@@ -9,15 +8,28 @@ $adaptation-green:  #92a584;
 $adaptation-yellow: #fdd94f;
 $adaptation-red:    #862918;
 
+$green-darker:  #1F3F1D;
+$off-white:     #f9f7f2 ;
+$orange-light:  #f0bc69;
+$orange-lighter:#f5de8f;
+$accent:        #0390c9;
+$blue-dark:     #1b2945;
+
+// Colors - Navigation
+$nav-text:      $off-white;
+$nav-hover:   #2D6A4F;
+$nav-active:  #40916C;
+$nav-border:  #52B788;
+
 
 $purple-000: lighten($adaptation-purple, 12);
 $purple-100: lighten($adaptation-purple, 8);
 $purple-200: $adaptation-purple;
 $purple-300: darken($adaptation-purple, 8);
-$green-000: lighten($adaptation-green, 15);
-$green-100: lighten($adaptation-green, 8);
+$green-000: #d2e9c8;
+$green-100: #90B77D;
 $green-200: $adaptation-green;
-$green-300: darken($adaptation-green, 12);
+$green-300: #2D5A27;
 $yellow-000: lighten($adaptation-yellow, 15);
 $yellow-100: lighten($adaptation-yellow, 12);
 $yellow-200: lighten($adaptation-yellow, 8);

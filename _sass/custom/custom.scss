@@ -1,31 +1,9 @@
-// _sass/custom/custom.scss - Just the Docs override file
+html {
+  font-size: 18px !important;
+}
 
-$green-dark:    #2D5A27;
-$green-darker:  #1F3F1D;
-$green-light:   #90B77D;
-$green-pale:    #F0F7ED;
-
-$off-white:     #f9f7f2 ;
-$orange-light:  #f0bc69;
-$orange-lighter:#f5de8f;
-$accent:        #0390c9;
-$blue-dark:     #1b2945;
-
-// Colors - Navigation
-$nav-text:      $off-white;
-$nav-hover:   #2D6A4F;
-$nav-active:  #40916C;
-$nav-border:  #52B788;
-
-// Breakpoints
-$breakpoints: (
-  'sm': 20rem,
-  'md': 31.25rem,
-  'lg': 50rem
-);
-
-body {
-  font-size: 1.1rem;
+.side-bar {
+  color: $nav-text;
 }
 
 hr {
@@ -33,65 +11,50 @@ hr {
   clear: right; // clear floating images
 }
 
-.side-bar {
-  background-color: $green-darker;
-  color: $nav-text;
-  font-family: Tahoma, Verdana, Arial, sans-serif;
-  font-weight: 100;
-  padding-left: 1rem;
-  padding-right: 1rem;
-}
-
 .site-header {
   margin-top: 0;
-  border-bottom: 1px solid $orange-light;
+  border-bottom: thick double $orange-light;
   font-size: 1.1rem;
-  min-height: 110px;
+  min-height: 120px;
+
+  a:hover {
+      background: unset;
+  }
+}
+
+
+#main-header {
+  border-bottom: 1px solid $grey-lt-300;
 }
 
 .site-title {
   color: $nav-text;
-  font-weight: 500;
-  font-size: 1.6rem;
-  padding-left: 0.5rem;
-  padding-right: unset;
-  
+  padding: 0;
+  margin: 0;
+}
+
+#site-nav {
+  padding-top: 1rem;
+}
+
+
+// the next few overrides of just the docs could probably be made more elegant
+.nav-list .nav-list-item .nav-list-expander {
+  color: yellow;
+
   &:hover {
-    background-image: none;
+      background: $green-200;
   }
 }
 
-.site-nav {
-  padding-top: 0.5rem;
+.nav-list .nav-list-item > .nav-list .nav-list-item .nav-list-expander {
+  color: $purple-300;
 }
 
-ul.nav-list .nav-list-item .nav-list-link {
-  background-image: none;
-  color: $nav-text !important;
-  font-weight: 100;
-  font-size: 1.1rem;
-  padding: 0.25rem 1rem 0.25rem 0.5rem;
-  margin: 0.1rem 0;
-  word-wrap: break-word;
-  white-space: normal;
-    
-  &:hover {
-    background-color: $nav-hover;
-    background-image: none;
-    color: $off-white;
-  }
-
-  &:visited {
-    color: $nav-text !important;
-  }
-    
-  &.active {
-    background-image: none;
-    background-color: $nav-active;
-    font-weight: 600;
-    color: $nav-text !important;
-  }
+.nav-list .nav-list-item.active .nav-list-expander {
+  color: $purple-100;
 }
+
 
 .site-footer {
   padding-left: 0.5rem;
