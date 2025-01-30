@@ -12,9 +12,9 @@ nav_order: 60
 
 ![A young C. argyrosperma cushaw fruit grows on the vine]( {{ '/assets/images/growing/immature-argyrosperma-fruit-200w.jpg' | relative_url }}){:class="float-right-third"}
 
-Individual squash fruits are ready for seed harvesting by 60 days after the fruit is fertilized. Some cushaws continue to improve in taste and nutrition if left on the vine longer.
+Individual squash fruits are ready for seed harvesting by 60 days after the fruit is fertilized. Some cushaws continue to improve in taste and nutrition if left on the vine longer. If the peduncle between the fruit and the vine is still fleshy and hydrated, the vine is still providing nourishment to the fruit.
 
-If frost or other issues force early harvesting, some growers report that seeds continue to develop in storage. A publication from Maine Organic Farmers and Gardeners offers minimum recommended timelines for squash fruit and seed maturation: [Harvesting Winter Squash for Flavor and Storage](https://www.mofga.org/resources/crops/harvesting-winter-squash-for-flavor-and-storage/). If your fruit may not have mature seeds yet, consider waiting to process the seeds for a month or two after harvest.
+If frost or other issues do force early harvesting, some growers report that seeds continue to develop in storage. A publication from Maine Organic Farmers and Gardeners offers minimum recommended timelines for squash fruit and seed maturation: [Harvesting Winter Squash for Flavor and Storage](https://www.mofga.org/resources/crops/harvesting-winter-squash-for-flavor-and-storage/). If your fruit may not have mature seeds yet, consider waiting to process the seeds for a month or two after harvest.
 
 ## Selecting for what you love
 

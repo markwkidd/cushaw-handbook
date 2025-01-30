@@ -24,7 +24,9 @@ C. argyrosperma cushaws have been noted to form interspecific hybrids with other
 
 ## When to plant outside
 
-Squash plants are not frost-tolerant, and prefer soil temperatures above 50 F. Note that plants started indoors may need to acclimate to the outdoors before planting in the ground.
+Cushaws are not frost-tolerant, and prefer soil temperatures above 50 degrees Fahrenheit. Wait to plant them until after the risk of frost and once nighttime low temperatures are usually above 50 degrees. Plants started indoors may need to acclimate to the outdoors before planting in the ground.
+
+It may be useful to try to find out if there are traditional times recommended to plant winter squash in your area. Winter squash cushaws require 60 days after fertilization in order to produce viable seeds, but producing high quality flesh often requires additional time on the vine. Work backwards from the date of fall frost danger to ensure you plant the cushaws with enough time to mature.
 
 ## Direct sowing
 
