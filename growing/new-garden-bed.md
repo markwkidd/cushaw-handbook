@@ -1,12 +1,12 @@
 ---
-title: Appendix - Prep for new gardens
+title: Appendix - Preparing new garden beds
 parent: Growing guide
 layout: default
 has_children: false
 nav_order: 999
 ---
 
-# Preparation for new gardens
+# Preparing new garden beds
 While these instructions do not address all aspects of establishing new garden beds, they are intended to provide two possible starting points for further research and planning.
 
 ## Method 1: No-Till Cardboard Mulch
