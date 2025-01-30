@@ -1,12 +1,12 @@
 ---
-title: Preparing new gardens
+title: Appendix: Prep for new gardens
 parent: Growing guide
 layout: default
 has_children: false
-nav_order: 3
+nav_order: 999
 ---
 
-# Preparing new gardens
+# Preparation for new gardens
 
 ## Method 1: No-Till Cardboard Mulch
 
