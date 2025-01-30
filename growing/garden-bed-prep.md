@@ -1,12 +1,12 @@
 ---
-title: Preparing a new garden bed
+title: Preparing new gardens
 parent: Growing guide
 layout: default
 has_children: false
 nav_order: 3
 ---
 
-# Preparing a new garden bed
+# Preparing new gardens
 
 ## Method 1: No-Till Cardboard Mulch
 
