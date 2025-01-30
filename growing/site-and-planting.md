@@ -12,17 +12,15 @@ nav_order: 20
 
 ![A young C. argyrosperma cushaw fruit grows on the vine](../../assets/images/growing/immature-argyrosperma-fruit-200w.jpg "Sprawling young cushaw vine"){:class="float-right-third"}
 
-In general, cushaws will thrive under similar conditions to other squash. In Mexico near the likely origin of Curcubita argyrosperma, various strains of cushaws can be found growing in conditions that vary from intercropping with corn within intensive agricultural systems to feral and wild forms that self-seed.
+In general, cushaws will thrive under similar conditions to other squash. They will not grow in soil that is waterlogged, but are somewhat tolerant of natural variations in humidity and rainfall.
 
-In cool northern hemisphere climates, an area facing south is often best. 
-Site Selection
+A soil pH between 6 and 8 is recommended. Cushaw squash can be grown outside those parameters, but may have trouble using nutrients at low or high pH. In addition to growing cushaws that are adapted to local soil conditions, growing in soil that is more fertile has been known to help squash counterbalance difficulty accessing nutrients due to pH.
 
-    Choose a location that receives at least 6-8 hours of direct sunlight daily.
-    Ensure the area has good drainage.
+Cushaw vines can benefit from a small amount of shade, but choose a location that receives at least 6-8 hours of direct sunlight daily. In cool northern hemisphere climates, an area facing south is often best.
 
 ### Possibility of crossing
 
-C. argyrosperma cushaws have been noted in English scientific literature to form interspecific hybrids with other Cucurbita squash. However, these hybrids should be considered unlikely to occur via natural pollination. Among the other squash species which are widely cultivated, Cucurbita moschata is often considered the most likely to hybridize with Cucurbita argyrosperma.
+C. argyrosperma cushaws have been noted to form interspecific hybrids with other Cucurbita squash. However, these hybrids should be considered unlikely to occur via natural pollination. Cucurbita moschata is considered the most likely to hybridize with Cucurbita argyrosperma.
 
 ## When to plant outside
 
