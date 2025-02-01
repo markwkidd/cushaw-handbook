@@ -8,7 +8,7 @@ nav_order: 0
 
 ![Collage of cushaw squash in various locations](assets/images/cushaw-homepage-banner-1000x250.png)
 
-**This guide is intended to help people grow and use tasty, nutritious cushaw squash.** It was initially developed by the Commonwealth Cushaw Project, a partnership of [Handbarrow](https://handbarrow.org/) and [Renew Appalachia](https://renewappalachia.org/) in Kentucky, USA. It has been built with technical assistance and resources from the [Going to Seed](https://goingtoseed.org/) crop guide project.
+**This guide is intended to help people grow and use tasty, nutritious cushaw squash.** It was initially developed by the Commonwealth Cushaw Project, a partnership of [Handbarrow](https://handbarrow.org/) and [Renew Appalachia](https://renewappalachia.org/) in Kentucky, USA. It has been built with technical assistance and resources from the [Going to Seed](https://goingtoseed.org/) crop guide project and an intercultural microgrant from the [Kentucky Rural-Urban Exchange](https://kyrux.org/).
 
 ## What are cushaws?
 

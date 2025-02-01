@@ -12,7 +12,7 @@ nav_order: 20
 
 In general, cushaws will thrive under similar conditions to other squash. They will not grow in soil that is waterlogged, but are somewhat tolerant of natural variations in humidity and rainfall.
 
-A soil pH between 6 and 8 is recommended. Cushaw squash can be grown outside those parameters, but may have trouble using nutrients at low or high pH. In addition to growing cushaws that are adapted to local soil conditions, growing in soil that is more fertile has been known to help squash counterbalance difficulty accessing nutrients due to pH.
+A soil pH between 6 and 8 is recommended. Cushaw squash can be grown outside those parameters, but the vines will have more difficulty using the available nutrients at low or high pH. In addition to growing cushaws that are adapted to local soil conditions, growing in soil that is more fertile has been known to help squash counterbalance difficulty accessing nutrients due to pH.
 
 Cushaw vines can benefit from a small amount of shade, but choose a location that receives at least 6-8 hours of direct sunlight daily. In cool northern hemisphere climates, an area facing south is often best.
 
