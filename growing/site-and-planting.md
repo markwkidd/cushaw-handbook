@@ -31,7 +31,7 @@ It may be useful to try to find out if there are traditional times recommended t
 
 Squash seeds are easy to direct sow, and this is often the most effective choice assuming either an ample starting supply of seeds or an environment with low pest pressure.
 
-To direct sow, drop individual seeds into a hole or furrow about ½” - 1” deep, cover with soil and press to make good contact. Seeds should be about 6” apart, a distance based on either nature or the gardener removing some plants as they grow to increase the amount of space per individual chilacayote plant.
+To direct sow, drop individual seeds into a hole or furrow about ½” - 1” deep, cover with soil and press to make good contact. Seeds should be about 6” apart, a distance based on either nature or the gardener removing some plants as they grow to increase the amount of space per individual vine.
 
 Once the seeds have been planted, ensure that they are watered, whether by natural sources or by irrigation. With warmth and moisture, the seeds will germinate in a few days. By direct sowing, the tap root of the seedling can establish itself deeply in the soil, and avoid the risk of damage and shock that comes with transplantation.
 

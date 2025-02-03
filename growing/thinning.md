@@ -22,7 +22,7 @@ In places with less consistent pressure, you might hold back a quarter or half o
 
 Some gardeners may find that they have too many squash vines growing for the available space. If you are concerned about spacing, you may consider thinning your vines to a distance of between two and three feet apart.
 
-Cull later rather than sooner, after 1 or 2 pairs of true leaves have appeared. 
+Cull later rather than sooner, after two pairs of true leaves have appeared. 
 
 {: .note }
 > Seedlings may initially look healthy because they are nourished by their cotyledons. Their true vigor becomes apparent once they begin to metabolize their own nutrients.

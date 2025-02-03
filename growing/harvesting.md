@@ -10,7 +10,7 @@ nav_order: 50
 
 ![A young C. argyrosperma cushaw fruit grows on the vine](../../assets/images/growing/immature-argyrosperma-fruit-200w.jpg "Sprawling young cushaw vine"){:class="float-right-third"}
 
-When night temperatures drop below 50 degrees Fahrenheit, cushaw vines may stop producing flowers.
+Mature cushaw vines generally produce flowers when low temperatures remain above 50 degrees Fahrenheit. Cushaw blossoms may be eaten raw or cooked, and are stuffed as part of many recipes. Tender young leaves and tips of the vines may also be eaten. Many cushaws can be eaten as summer squash during their first two weeks on the vine, in addition to being used as a winter squash or for edible seeds when more mature.
 
 {: .note }
 > C. argyrospemera cushaws are believed to generally be **less sensitive to cold** than C. moschata winter squash. They are generally **more sensitive to cold** than C. ficifolia, C. maxima, or C. pepo squash.
