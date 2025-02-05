@@ -23,7 +23,7 @@ Raw squash pieces and puree can both be frozen. For a large winter squash fruit,
 ## Ingredients
 
 - 1 or more squash fruit
-- Vegetable oil
+- Cooking lard or oil
 - Salt
 
 ## Equipment and supplies
@@ -38,30 +38,31 @@ Raw squash pieces and puree can both be frozen. For a large winter squash fruit,
 - Oven
 - One or more baking trays or casseroles
 - Parchment paper or aluminum foil
+- Chef's knife
 - Scoop or large spoon
-- Large mixing bowl
+- Bowls
 - Potato masher or something similar
 - Colander
 
 ## Instructions
 
 
-1. Preheat the oven to 400 degrees Fahrenheit
+1. Preheat the oven to 400 degrees Fahrenheit.
 
 2. Cut the squash fruit into pieces that are relatively flat. The flesh in the neck is often thicker than the flesh around the seed cavity. Suggestion: You may consider splitting the neck in half, and roasting those two pieces in a separate tray so that they can be roasted longer than the other parts.
 
 3. Line your baking trays, pans, casseroles, etc with parchment paper or aluminum foil.
 
-4. Pour a small amount of vegetable oil and salt into a bowl. Either using a brush, a piece of parchment paper held in your hands, or any other method, coat the cushaw flesh in a light coating of oil and salt.
+4. Mix oil and salt into a bowl. Using a brush, piece of parchment paper, or other method, lightly coat the flesh with the mixture.
 
-5. Place the cushaw pieces on the baking tray with the inside downward. For neck pieces, this means placing the "cut side" downward.
+5. Place a single layer on the baking tray with the inside downward. For neck pieces, this means placing the cut side downward.
 
-6. If all of your pieces are the same thickness, then you only need to set one timer. Squash which begin at room temperature with flesh up to 1.5 inches thick can be roasted in approximately 1 hour and 15 minutes. Thicker flesh should be roasted for a longer period of time.
+6. If all the are approximately the same thickness, then you only need to set one timer. Fruit at room temperature with flesh up to 1.5 inches thick can be roasted in about 1 hour and 15 minutes. Thicker flesh should be roasted for a longer period of time.
 
-7. One the fruit cools sufficiently, use a large spoon or scoop to separate the roasted flesh from the rind. Use a potato masher, food processor, or similar approach to mix the flesh until it reaches puree consistency.
+7. The the edges of a squash piece will brown when the piece is fully roasted. One it cools, use a scoop to separate the flesh from the rind. Then use a potato masher, food processor, or other approach to mix the flesh until it reaches puree consistency.
 
 {: .warning }
-Because the rind of a hard shell squash fruit does not soften with roasting, be careful to avoid getting pieces of shell into the puree if yours has a hard shell.
+Because the rind of a hardshell squash fruit does not soften as much with roasting, be careful to avoid getting pieces of shell into the puree if yours has a hard shell.
 
 ## Image gallery
 
