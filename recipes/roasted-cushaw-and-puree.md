@@ -8,7 +8,7 @@ nav_order: 10
 
 # Roasted Cushaw Squash and Puree
 
-Oven-roasting is a foundation for many winter squash recipes. The roasting process is the same for winter squash cushaws as other species of squash. Squash can be frozen either as clean raw fruit or as roasted puree.
+Oven-roasting is a foundation for many winter squash recipes. The roasting process is the same for winter squash cushaws as other species of squash.
 
 ## Freezing
 Raw squash pieces and puree can both be frozen. For a large winter squash fruit, a cook might store the fruit for a few months whole at room temperature. Then when the squash is first needed, the cook might prepare half of it, and freeze the other half either raw or as puree.
