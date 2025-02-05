@@ -6,14 +6,12 @@ has_children: false
 nav_order: 10
 ---
 
-# Roasted Cushaw Puree
+# Roasted Cushaw Squash and Puree
 
-Cushaw puree can be prepared using several methods. Oven-roasting the squash may be the simplest.
+Oven-roasting is a foundation for many winter squash recipes. The roasting process is the same for winter squash cushaws as other species of squash. Squash can be frozen either as clean raw fruit or as roasted puree.
 
-For a large winter squash fruit, a cook might store the fruit for a few months whole at room temperature. Then when the squash is first needed, the cook might prepare half of it, and freeze the other half either raw or as puree.
-
-{: .note }
-Squash can be frozen either as clean raw fruit or as cooked puree.
+## Freezing
+Raw squash pieces and puree can both be frozen. For a large winter squash fruit, a cook might store the fruit for a few months whole at room temperature. Then when the squash is first needed, the cook might prepare half of it, and freeze the other half either raw or as puree.
 
 {% include embed_image.html
     url="assets/images/recipes/roasted-cushaw-puree/finished-cushaw-puree-thumbnail.jpg"
@@ -58,7 +56,7 @@ Squash can be frozen either as clean raw fruit or as cooked puree.
 
 5. Place the cushaw pieces on the baking tray with the inside downward. For neck pieces, this means placing the "cut side" downward.
 
-6. If all of your pieces are the same thickness, then you only need to set one timer. Squash which begin at room temperature with flesh up to 1.5 inches thick can be roasted in approximately one hour. Ticker flesh should be roasted for a longer period of time.
+6. If all of your pieces are the same thickness, then you only need to set one timer. Squash which begin at room temperature with flesh up to 1.5 inches thick can be roasted in approximately 1 hour and 15 minutes. Thicker flesh should be roasted for a longer period of time.
 
 7. One the fruit cools sufficiently, use a large spoon or scoop to separate the roasted flesh from the rind. Use a potato masher, food processor, or similar approach to mix the flesh until it reaches puree consistency.
 
