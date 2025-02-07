@@ -39,16 +39,16 @@ html {
   color: yellow;
 
   &:hover {
-      background: $green-200;
+      background: $green-300;
   }
 }
 
 .nav-list .nav-list-item > .nav-list .nav-list-item .nav-list-expander {
-  color: $purple-300;
+  color: $orange-light;
 }
 
 .nav-list .nav-list-item.active .nav-list-expander {
-  color: $purple-100;
+  color: $orange-light;
 }
 
 .site-nav ul li a {

@@ -1,28 +1,37 @@
 ---
-title: About this project
+title: About this guide
 layout: home
 nav_order: 0
 ---
 
-# The Commonwealth Cushaw Project
+# The Commonwealth Cushaw Guide
 
 ![Collage of cushaw squash in various locations](assets/images/cushaw-homepage-banner-1000x250.png)
 
-**This guide is intended to help people grow and use tasty, nutritious cushaw squash.** It was initially developed by the Commonwealth Cushaw Project, a partnership of [Handbarrow](https://handbarrow.org/) and [Renew Appalachia](https://renewappalachia.org/) in Kentucky, USA. It has been built with technical assistance and resources from the [Going to Seed](https://goingtoseed.org/) crop guide project and an intercultural microgrant from the [Kentucky Rural-Urban Exchange](https://kyrux.org/).
-
-## Commonwealth Cushaw Zine
-An abridged version of this guide is available in zine form. Feel free to browse the pages online or download a copy as a PDF file.
-
-<iframe allowfullscreen="allowfullscreen" scrolling="no" class="fp-iframe" style="border: 1px solid lightgray; width: 100%; height: 20rem;" src="https://heyzine.com/flip-book/c5d5b4b224.html"></iframe>
+This guide is intended to help people grow and use tasty, nutritious cushaw squash. Some cushaws have been bred for tasty edible seed, and others for prolific summer squash or long-storing pumpkin characteristics. Some kinds of cushaw serve multiple roles.
 
 ## What are cushaws?
 
-**Cushaw**, or **kershaw**, is the most common name in English for the botanical species of squash _Cucurbita argyrosperma_, and likewise most squash varieties that are called cushaws are part of that species. This guide will use cushaw interchangeably with the species _C. argyrosperma_.
+_Cushaw_, or _kershaw_, is the common name in English for the botanical species of squash _Cucurbita argyrosperma_. The cushaw was domesticated in Mexico and it has traditionally been grown in the approximate region from Nicaragua to the Southeastern United States.
+
+- **Days from planting to harvest**: 60 for summer squash, 90-120 for winter squash and seeds.
+- **Planting dates:** After the last danger of frost, when soil reaches 60° Fahrenheit.
+- **Light:** At least 6 hours of direct sunlight daily. A small amount of shade can be helpful.
+- **Days to germination:** 3 - 7
 
 {: .note }
-> Due to historic changes in the understanding of squash botany, some squash of species _Cucurbita moschata_ are referred to as cushaws, for example the _Golden Cushaw_. This guide is not focused on C. moschata varieties like the Golden Cushaw. That species requires similar growing conditions, but there are differences.
+> Some squash varieties historically called cushaw, like _Golden Cushaw_, are now known to be _Cucurbita moschata_, a different botanical species. This guide focuses on _C. argyrosperma_ cushaws.
 
-Different types of cushaw squash have been bred for different purposes such as edible seeds, summer squash, and long-keeping winter squash. Some types are used for more than one purpose. 
+## Zine Version
+
+An abridged version of this guide is available in zine form. You are welcome to download a PDF copy.
+
+<iframe allowfullscreen="allowfullscreen" scrolling="no" class="fp-iframe" style="border: 1px solid lightgray; width: 100%; height: 30rem;" src="https://heyzine.com/flip-book/c5d5b4b224.html"></iframe>
+
+### About this project
+
+It was initially developed by the Commonwealth Cushaw Project, a partnership of [Handbarrow](https://handbarrow.org/) and [Renew Appalachia](https://renewappalachia.org/) in Kentucky, USA. It has been built with technical assistance and resources from the [Going to Seed](https://goingtoseed.org/) crop guide project and an intercultural microgrant from the [Kentucky Rural-Urban Exchange](https://kyrux.org/).
+
 
 ## Using and reusing the guide
 
