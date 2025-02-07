@@ -13,7 +13,7 @@ nav_order: 0
 ## Commonwealth Cushaw Zine
 An abridged version of this guide is available in zine form. Feel free to browse the pages online or download a copy as a PDF file.
 
-<iframe allowfullscreen="allowfullscreen" scrolling="no" class="fp-iframe" style="border: 1px solid lightgray; width: 100%; height: 100%;" src="https://heyzine.com/flip-book/d4f838eedc.html"></iframe>
+<iframe allowfullscreen="allowfullscreen" scrolling="no" class="fp-iframe" style="border: 1px solid lightgray; width: 100%; height: 20rem;" src="https://heyzine.com/flip-book/c5d5b4b224.html"></iframe>
 
 ## What are cushaws?
 
