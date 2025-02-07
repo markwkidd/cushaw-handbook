@@ -10,6 +10,11 @@ nav_order: 0
 
 **This guide is intended to help people grow and use tasty, nutritious cushaw squash.** It was initially developed by the Commonwealth Cushaw Project, a partnership of [Handbarrow](https://handbarrow.org/) and [Renew Appalachia](https://renewappalachia.org/) in Kentucky, USA. It has been built with technical assistance and resources from the [Going to Seed](https://goingtoseed.org/) crop guide project and an intercultural microgrant from the [Kentucky Rural-Urban Exchange](https://kyrux.org/).
 
+## Commonwealth Cushaw Zine
+An abridged version of this guide is available in zine form. Feel free to browse the pages online or download a copy as a PDF file.
+
+<iframe allowfullscreen="allowfullscreen" scrolling="no" class="fp-iframe" style="border: 1px solid lightgray; width: 100%; height: 100%;" src="https://heyzine.com/flip-book/d4f838eedc.html"></iframe>
+
 ## What are cushaws?
 
 **Cushaw**, or **kershaw**, is the most common name in English for the botanical species of squash _Cucurbita argyrosperma_, and likewise most squash varieties that are called cushaws are part of that species. This guide will use cushaw interchangeably with the species _C. argyrosperma_.
