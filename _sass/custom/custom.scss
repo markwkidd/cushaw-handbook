@@ -84,37 +84,38 @@ ul.nav-list .nav-list-item .nav-list-link {
 }
 
 .breadcrumb-nav {
-    margin-top: 0.5rem;
+  margin-top: 0.5rem;
 }
 
 .main-content-wrap {
-    padding-top: 0;
+  padding-top: 0;
 }
 
 .main-content h1:first-of-type {
-    margin-top: 0; // override just the docs top margin
+  margin-top: 0; // override just the docs top margin
 }
 
 .main-content h1 {
-    font-size: 2.8em !important;
-    font-weight: 400;
-    clear: right; // keeps border line from overlapping floating images
+  font-size: 2.8em !important;
+  font-weight: 400;
+  clear: right; // keeps border line from overlapping floating images
+  color: $adaptation-purple;
 }
 
 .main-content h2 {
-    color: $purple-300;
+  color: $adaptation-purple;
 }
 
 .main-content h2, .main-content h3, .main-content h4 {
-    margin-top: 0.5rem;
+  margin-top: 0.5rem;
 }
 
 .main-content h4 {
-    font-size: 1.05em !important;
+  font-size: 1.05em !important;
 }
 
 .main-content ul > li::before {
-    font-weight: 900;
+  font-weight: 900;
 }
 
 .main-content {
