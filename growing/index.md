@@ -5,10 +5,12 @@ has_children: true
 nav_order: 4
 ---
 
-# Cushaw growing guide
+# Profile
 
-## Schedule
+- **Days from planting to harvest**: 60 for summer squash, 90-120 for winter squash and seeds.
+- **Planting dates:** After the last danger of frost, when soil reaches 60° Fahrenheit.
+- **Light:** At least 6 hours of direct sunlight daily. A small amount of shade can be helpful.
+- **Days to germination:** 3 - 7
 
-Cushaws are not frost tolerant. Seedlings thrive in late spring and early summer after danger of frost, when the soil reaches 60° Fahrenheit.
-
-It may be useful to try to find out if there are traditional times recommended to plant winter squash in your area. Winter squash cushaws require 60 days after fertilization in order to produce viable seeds, but producing high quality flesh often requires additional time on the vine. Work backwards from the date of fall frost danger to ensure you plant the cushaws with enough time to mature.
+{: .note }
+> Some squash varieties historically called cushaw, like _Golden Cushaw_, are now known to be _Cucurbita moschata_, a different botanical species. This guide focuses on _C. argyrosperma_ cushaws.
