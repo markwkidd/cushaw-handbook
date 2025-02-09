@@ -15,7 +15,7 @@ Without a caption, an image can be embedded using Markdown syntax, for example:
 ### Image with caption
 Invoke the template to incorporate an image with a caption using the html element `figcaption`.
 ```
-{% include caption-image.html url="/assets/images/recipes/cut-fruit-with-seeds-350w.jpg" alt="Saved seeds in a colander" caption="Seed saving and sharing is integrated into the guide" %}
+{% include caption-image.html src="/assets/images/recipes/cut-fruit-with-seeds-350w.jpg" alt="Saved seeds in a colander" caption="Seed saving and sharing is integrated into the guide" %}
 ```
 
 ## Wrapping text via floating images
@@ -29,6 +29,6 @@ Example of wrapping text around floating non-captioned image:
 
 Example of wrapping text around floating captioned image:
 ```
-{% include caption-image.html url="/assets/images/recipes/cut-fruit-with-seeds-350w.jpg" alt="Saved seeds in a colander" caption="Seed saving and sharing is integrated into the guide" %}
+{% include caption-image.html src="/assets/images/recipes/cut-fruit-with-seeds-350w.jpg" alt="Saved seeds in a colander" caption="Seed saving and sharing is integrated into the guide" %}
 {:class="float-right-third"}
 ```
