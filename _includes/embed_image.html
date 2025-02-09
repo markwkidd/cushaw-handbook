@@ -1,19 +1,46 @@
-{% if include.caption %}
-<figure class="caption-image {% if include.thumbnail == "true" %} third-size float-right{%- endif -%}">
+{% comment %}
+    TRUE VERSUS "TRUE"
+    Some attributes can be set by passing the string "true" into this template.
+    For example, the thumbnail attribute. That is why some comparisons use the
+    language builtin true and others compare to the string "true".
+{% endcomment %}
+
+{%- assign img-style = false -%}
+{%- assign img-link = false -%}
+
+{%- if include.width or include.height -%}
+    {%- assign img-style = true -%}
 {%- endif -%}
+
 {%- if include.link -%}
-    <a href="{{- include.link -}}">
+    {%- assign img-link = include.link -%}
 {%- elsif include.thumbnail == "true" -%}
-    <a href="{{ site.baseurl }}/{{ include.url }}">
+    {%- capture img-link -%}{%- % link include.url -%}{%- endcapture -%}
 {%- endif -%}
-        <img src="{{ site.baseurl }}/{{ include.url }}"
-        alt="{%- if include.alt -%}{{- include.alt -}}{%- else -%}WARNING: ALT TEXT NOT FOUND{%- endif -%}"
-        class="content-figure-image {% if include.thumbnail == "true" and include.caption == null %} third-size float-right{%- endif -%}"
-        style="{%- if include.width -%}width: {{- include.width -}};{%- endif -%}{%- if include.height -%}height: {{- include.height -}};{%- endif -%}">
-{%- if include.link or include.thumbnail == "true" -%}
+{% comment %}
+    If the link parameter is used, the URL will be set to its contents. If the
+    thumbnail parameter has been used, the URL will automatically be set to the original
+    image. Otherwise, no link will be generated for the image.
+{% endcomment %}
+
+{% if include.caption %}
+<figure class="image-figure {% if include.thumbnail == "true" %} thumbnail{%- endif -%}">
+{%- endif -%}
+{%- if img-link -%}
+    <a href="{{- img-link -}}">
+{%- endif -%}
+        <img
+            src="{{ site.baseurl }}/{{ include.url }}"
+            alt="{%- if include.alt -%}{{- include.alt -}}{%- else -%}WARNING: ALT TEXT NOT FOUND{%- endif -%}"
+            class="content-image-figure"
+            {%- if img-style == true %}
+                style="{%- if include.width -%}width: {{- include.width -}};{%- endif -%}{%- if include.height -%}height: {{- include.height -}};{%- endif -%}"
+            {% endif -%}
+        >
+{%- if img-link -%}
     </a>
 {%- endif -%}
 {% if include.caption %}
-    <figcaption>{{-include.caption-}}</figcaption>
+    <figcaption class="image-caption">{{-include.caption-}}</figcaption>
 </figure>
 {%- endif -%}
