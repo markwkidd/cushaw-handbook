@@ -22,10 +22,11 @@
     image. Otherwise, no link will be generated for the image.
 {% endcomment %}
 
-{%- if include.src | downcase contains "http" -%}
-    {%- assign img-src = include.src -%}
+{%- assign downcase-src = include.src | downcase -%}
+{%- if downcase-src contains "http" -%}
+    {%- assign img-src = downcase-src -%}
 {%- else -%}
-    {%- capture img-src -%}/{{- include.src | url -}}{%- endcapture -%}
+    {%- assign img-src = downcase-src | url | prepend: "/" -%}
 {%- endif -%}
 
 {%- if include.link -%}
