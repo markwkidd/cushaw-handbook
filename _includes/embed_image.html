@@ -15,7 +15,7 @@
 {%- if include.link -%}
     {%- assign img-link = include.link -%}
 {%- elsif include.thumbnail == "true" -%}
-    {%- capture img-link -%}{%- % link include.url -%}{%- endcapture -%}
+    {%- assign img-link = include.url | link -%}
 {%- endif -%}
 {% comment %}
     If the link parameter is used, the URL will be set to its contents. If the
