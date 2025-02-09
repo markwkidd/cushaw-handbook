@@ -8,35 +8,48 @@ nav_order: 20
 
 # Site and Planting
 
-## Location
+## Schedule
 
-In general, cushaws will thrive under similar conditions to other squash. They will not grow in soil that is waterlogged, but are somewhat tolerant of natural variations in humidity and rainfall.
-
-A soil pH between 6 and 8 is recommended. Cushaw squash can be grown outside those parameters, but the vines will have more difficulty using the available nutrients at low or high pH. In addition to growing cushaws that are adapted to local soil conditions, growing in soil that is more fertile has been known to help squash counterbalance difficulty accessing nutrients due to pH.
-
-Cushaw vines can benefit from a small amount of shade, but choose a location that receives at least 6-8 hours of direct sunlight daily. In cool northern hemisphere climates, an area facing south is often best.
-
-{: .note-title }
-> Possibility of crossing
->
-> C. argyrosperma cushaws have been noted to form interspecific hybrids with other species of Cucurbita squash through open pollination when the two species are growing near each other. This is a rare occurrence, and Cucurbita moschata is thought to be the most likely other species to form natural hybrids.
-
-## When to plant outside
-
-Cushaws are not frost-tolerant, and prefer soil temperatures above 50 degrees Fahrenheit. Wait to plant them until after the risk of frost and once nighttime low temperatures are usually above 50 degrees. Plants started indoors may need to acclimate to the outdoors before planting in the ground.
+Cushaws are not frost tolerant. Seedlings thrive in late spring and early summer after danger of frost, when the soil reaches 60° Fahrenheit.
 
 It may be useful to try to find out if there are traditional times recommended to plant winter squash in your area. Winter squash cushaws require 60 days after fertilization in order to produce viable seeds, but producing high quality flesh often requires additional time on the vine. Work backwards from the date of fall frost danger to ensure you plant the cushaws with enough time to mature.
 
-## Direct sowing
+## Site
+Vines need at least 6 hours of direct sun daily. A little of shade can help.
 
-Squash seeds are easy to direct sow, and this is often the most effective choice assuming either an ample starting supply of seeds or an environment with low pest pressure.
+In general, cushaws will thrive under similar conditions to other squash. They will not grow in soil that is waterlogged, but are somewhat tolerant of natural variations in humidity and rainfall.
 
-To direct sow, drop individual seeds into a hole or furrow about ½” - 1” deep, cover with soil and press to make good contact. Seeds should be about 6” apart, a distance based on either nature or the gardener removing some plants as they grow to increase the amount of space per individual vine.
+## Soil
 
-Once the seeds have been planted, ensure that they are watered, whether by natural sources or by irrigation. With warmth and moisture, the seeds will germinate in a few days. By direct sowing, the tap root of the seedling can establish itself deeply in the soil, and avoid the risk of damage and shock that comes with transplantation.
+Cushaw vines can benefit from fertile soil and amendments like aged compost, but they are traditionally grown with minimal amendments, treatments, or irrigation. Soil pH between 6 and 8 allows cushaws to make the best use of nutrients, but they can grow outside that range.
 
-## Starting cushaws indoors
+## Final spacing
 
-Some situations call for starting indoors. For example, in short season climates, start seeds indoors 3-4 weeks before the last frost, at least during the first year or two to harvest squash as close to maturity as possible.
+Cushaws usually have a vine habit, and vines can reach 50 feet long. They are often planted in 6-foot rows, spaced 3 feet apart, or planted in hills spread 6 feet apart.
+
+{: .note-title }
+> Open pollination and crosses
+>
+> Natural crosses among cushaws are common and often desirable. Allowing cushaws with good characteristics to cross usually produces new cushaws that also have good characteristics. C. argyrosperma can cross naturally with other species of Cucurbita squash but it is rare.
+
+Cushaw vines can benefit from a small amount of shade, but choose a location that receives at least 6-8 hours of direct sunlight daily. In cool northern hemisphere climates, an area facing south is often best.
+
+## Direct sowing vs. starts
+
+Some situations call for starting indoors. With small amounts of seed or new beds, starting seeds in containers can improve the odds of success. In short season climates, growers start seeds indoors 3-4 weeks before the last frost, at least during the first year or two to harvest squash as close to maturity as possible.
+
+In warmer climates, once the gardener has hundreds or more seeds, and established garden beds, it is often practical to sow directly in the soil.
+
+### Direct sowing
+
+Sow seeds approximately 1 inch deep into holes or furrows. Sow 6 seeds per hill, or one seed every 6 inches for rows. Cover with soil and press to make good contact.
+
+In dry climates, keep the soil moist until the vines germinate and establish roots. With warmth and moisture, the seeds will germinate in a few days.
+
+### Using starts
+
+Squash seedlings are relatively large, and need relatively large containers.
 
 When starting the seeds indoors, it can be useful to add some of your native soil to the potting mix so the seeds develop relationships with soil microbes right from the start. [Check out the free Going to Seed course “How Microbes Help Local Adaptation”](https://goingtoseed.org/products/1734455) to learn more.
+
+Air temperature and soil temperature are both important when working with starts. Plants started indoors may need to acclimate to the outdoors before planting in the ground.
