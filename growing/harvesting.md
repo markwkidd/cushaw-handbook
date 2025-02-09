@@ -1,5 +1,5 @@
 ---
-parent: Growing guide
+parent: Growing cushaws
 title: Harvesting
 layout: default
 has_children: false

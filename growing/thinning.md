@@ -1,5 +1,5 @@
 ---
-parent: Growing guide
+parent: Growing cushaws
 title: Thinning
 layout: default
 has_children: false

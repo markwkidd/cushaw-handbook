@@ -1,6 +1,6 @@
 ---
 title: Appendix - Preparing new garden beds
-parent: Growing guide
+parent: Growing cushaws
 layout: default
 has_children: false
 nav_order: 999
