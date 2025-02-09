@@ -1,15 +1,15 @@
 ---
-title: Other resources
+title: Zine and other resources
 layout: default
 has_children: false
 nav_order: 40
 ---
 
-# Other resources
+# Zine and other resources
 
-## Cushaw Cultivation Zine
+## Cushaw Squash: A Growing and Seed Saving Guide
 
-An abridged version of this guide is available in zine form on this page or as a PDF download:
+You can browse the embedded digital copy of the zine below, or access one of the downloadable PDF versions:
 
 - <a href="/assets/commonwealth-cushaw-zine-2025-02-07.pdf">Plain copy with one page per sheet</a>.
 - <a href="/assets/commonwealth-cushaw-zine-bifold-2025-02-07-printable-bifold.pdf">Formatted for printing</a>. It uses both sides of 8 1/2" x 11" letter size paper, folded in half and stapled. 
