@@ -14,9 +14,9 @@ Oven-roasting is a foundation for many winter squash recipes. The roasting proce
 Raw squash pieces and puree can both be frozen. For a large winter squash fruit, a cook might store the fruit for a few months whole at room temperature. Then when the squash is first needed, the cook might prepare half of it, and freeze the other half either raw or as puree.
 
 {% include embed_image.html
-    src="assets/images/recipes/roasted-cushaw-puree/finished-cushaw-puree-thumbnail.jpg"
-    alt="Mashing roasted cushaw flesh"
-    caption="A potato masher used to bring the roasted cushaw to puree consistency."
+    src="assets/images/recipes/cut-fruit-with-seeds-350w.jpg"
+    alt="Saved seeds in a colander."
+    caption="Saving the seeds for fruits with good qualities."
     thumbnail="true"
 %}
 
@@ -27,13 +27,6 @@ Raw squash pieces and puree can both be frozen. For a large winter squash fruit,
 - Salt
 
 ## Equipment and supplies
-
-{% include embed_image.html
-    src="assets/images/recipes/roasted-cushaw-puree/cushaw-pumpkin-pieces-thumbnail.jpg"
-    alt="Cushaw cut into relatively flat pieces"
-    caption="For some squash there may not be much flesh around the seeds. This fruit has an ample amount making it worth processing."
-    thumbnail="true"
-%}
 
 - Oven
 - One or more baking trays or casseroles
@@ -84,12 +77,6 @@ Because the rind of a hardshell squash fruit does not soften as much with roasti
     src="assets/images/recipes/roasted-cushaw-puree/cutting-hardshell-cushaw-thumbnail.jpg"
     alt="Squash with hard shells are difficult to cut."
     caption="Cutting the flesh of a hardshell fruit starting from the inside allows the cook to use their hands to split the pieces if the knife doesn't completely separate the rind."
-    thumbnail="true"
-%}
-
-{% include embed_image.html
-    src="assets/images/recipes/cut-fruit-with-seeds-350w.jpg"
-    alt="Saved seeds in a colander."
     thumbnail="true"
 %}
 
