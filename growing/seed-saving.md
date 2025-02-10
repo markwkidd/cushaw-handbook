@@ -10,25 +10,24 @@ nav_order: 60
 
 ## When are seeds mature?
 
-![A young C. argyrosperma cushaw fruit grows on the vine]( {{ '/assets/images/growing/immature-argyrosperma-fruit-200w.jpg' | relative_url }}){:class="float-right-third"}
+Individual squash fruits are ready for seed harvesting by 60 days after the fruit is fertilized. If the peduncle between the fruit and the vine is still fleshy and hydrated, the vine is still providing nourishment to the fruit and seeds and it may help to leave the fruit attached.
 
-Individual squash fruits are ready for seed harvesting by 60 days after the fruit is fertilized. Some cushaws continue to improve in taste and nutrition if left on the vine longer. If the peduncle between the fruit and the vine is still fleshy and hydrated, the vine is still providing nourishment to the fruit.
+If frost or other issues do force early harvesting, seeds can continue to develop after harvest if left inside the fruit. A publication from Maine Organic Farmers and Gardeners offers minimum recommended timelines for squash fruit and seed maturation: [Harvesting Winter Squash for Flavor and Storage](https://www.mofga.org/resources/crops/harvesting-winter-squash-for-flavor-and-storage/). If your fruit may not have mature seeds yet, consider waiting to process the seeds for a month or two after harvest.
 
-If frost or other issues do force early harvesting, some growers report that seeds continue to develop in storage. A publication from Maine Organic Farmers and Gardeners offers minimum recommended timelines for squash fruit and seed maturation: [Harvesting Winter Squash for Flavor and Storage](https://www.mofga.org/resources/crops/harvesting-winter-squash-for-flavor-and-storage/). If your fruit may not have mature seeds yet, consider waiting to process the seeds for a month or two after harvest.
+## Not many fruits?
 
-## Selecting for what you love
+If you are just starting to grow cushaws, you may only harvest one or two fruits. One term for this stage of an adaptation project is "seed increase", when the grower might save seed from most or all fruits to maximize genetic diversity, even if some seem better than others.
 
-If this is one of your first seasons growing cushaws, you may only harvest a few fruits.
+In subsequent years with more fruit to choose from, the grower can be more selective. In the future, with more fruit to choose from, a grower can choose to prioritize saving seeds from the tastiest and earliest fruit, or those plants that are hardiest in their ecosystem, or the plants that have the tastiest or most beautiful foliage.
 
-Some growers refer to this stage of an adaptation gardening project as a "seed increase" phase when the grower might plan to save seed from most fruits harvested, even if some seem better than others. In the first year or two of an adaptation project, it's often best to save seeds from every fruit harvested to maintain as much genetic diversity as possible. In subsequent years with more fruit to choose from, the grower can be more selective.
-
-In the future, with more fruit to choose from, a grower can choose to prioritize saving seeds from the tastiest and earliest fruit, or those plants that are hardiest in their ecosystem, or the plants that have the tastiest or most beautiful foliage.
-
-Regardless of your selection criteria, Going to Seed recommends tasting at least one fruit from any squash plant that you are saving seeds from. Squash flavor can be evaluated either raw, or cooked without butter or seasoning. Winter squash cushaws are often stored for several months before use; how long the fruit can be stored at culinary quality is one of the attributes that is often important when making selections for seed saving.
+{: .note-title }
+> Recommendation: Taste fruits first
+>
+> Taste at least one fruit from any plant that you are saving seeds from. Squash flavor can be evaluated either raw, or cooked without butter or seasoning. 
 
 ## Maintaining genetic diversity in an adaptive population
 
-If you are planning to enjoy the cushaw fruit as food, you may not be processing all of your squash at one time. You may instead be processing seeds at several points through the winter as you use the fruit in your kitchen.
+If you are planning to enjoy the cushaw fruit as food, you may not be processing all of your squash at one time. You may instead be processing seeds at several points through the winter as you use the fruit in your kitchen. Winter squash cushaws are often stored for several months before use; how long the fruit can be stored at culinary quality is one of the attributes that is often important when making selections for seed saving.
 
 If you have a variety of mature fruit to choose from, it's best to not let any single fruit's seeds dominate next season's mix. Consider the total number of seeds you want to save and aim for a proportional mix from different fruits. The best fruit should contribute more seeds, and fruit that only met minimum standards should contribute proportionally fewer seeds.
 
@@ -36,19 +35,22 @@ Bear in mind that some fruit will naturally contain many seeds while others will
 
 ## Processing seeds
 
-Going to Seed has published [a standalone guide to saving squash seeds](https://goingtoseed.org/pages/processing-squash-seeds) which offers two overall options depending on your preferences and circumstances. Both the 'dry' and 'wet' processes can be used with cushaw.
+Going to Seed has published [a standalone guide to saving squash seeds](https://goingtoseed.org/pages/processing-squash-seeds) which offers two overall options depending on your preferences and circumstances. Both the 'dry' and 'wet' processes can be used with cushaw seeds.
 
-## Dry enough to snap
+## Humid climates: dry enough to snap
 
-Regardless of the cleaning method, it's essential that the seeds be very dry before storage. Seeds are dry enough when they snap crisply if bent in half.
+Climate is an important consideration for drying seeds. In humid climates, a dehydrator set to 100 degrees or less can help seeds dry enough for storage. Some seed savers employ reusable desiccants to mitigate humidity.
 
-Climate, and humidity in particular, is an important consideration for drying seeds. Working Food, in Florida, USA, [reports in their seed drying fact sheet](https://workingfood.org/wp-content/uploads/2020/04/Seed-Drying-Fact-Sheet.pdf) that humidity is their biggest obstacle to seed longevity. In that area, where ambient humidity ranges from 50%-100% depending on the season, seeds never reach Working Food's recommended dryness of 35% or lower via air drying.
+Working Food, in Florida, USA, [reports in their seed drying fact sheet](https://workingfood.org/wp-content/uploads/2020/04/Seed-Drying-Fact-Sheet.pdf) that humidity is their biggest obstacle to seed longevity. In that area, where ambient humidity ranges from 50%-100% depending on the season, seeds never reach Working Food's recommended dryness of 35% or lower via air drying.
 
-Many seed savers use locations near a fan, or on top of the refrigerator, or near a heating or cooling vent, where circulating air helps the drying process. While some guides for seed saving discourage the use of a dehydrator out of concern for accidentally harming the seeds, seed savers like myself in humid climates have found dehydrators generally safe to use.
 
-In Eastern Kentucky, it's relatively easy to dry seeds during the winter when heaters keep the air dry inside. In Spring and Fall, I sometimes use a dehydrator on its minimum setting of 95 degrees Fahrenheit, a setting I have found to be safe for squash seeds. As part of [the report from the ECHO Community seed bank about their humid climate dehydration trials](https://www.echocommunity.org/en/resources/d3595b7a-30c1-40c0-a18d-635c51f2f9ac) in Thailand, they indicate that 100 degrees Fahrenheit or lower is safe for seeds from most crops. 
+It's essential that the seeds be very dry before storage. Seeds are dry enough when they snap crisply if bent in half.Many seed savers use locations near a fan, or on top of the refrigerator, or near a heating or cooling vent, where circulating air helps the drying process.
 
-If you are using a dehydrator to dry seeds for the first time, consider running the dehydrator an hour at a time so you can check the drying progress. In my climate, air-dried seeds typically need about two hours in the dehydrator before going into long-term storage.
+### Using a dehydrator
+
+While some guides for seed saving discourage the use of a dehydrator out of concern for accidentally harming the seeds, seed savers in humid climates have found dehydrators safe for squash seeds when used at low temperatures. [The report from the ECHO Community seed bank about their humid climate dehydration trials](https://www.echocommunity.org/en/resources/d3595b7a-30c1-40c0-a18d-635c51f2f9ac) in Thailand indicates that 100 degrees Fahrenheit or lower is safe for seeds from most crops. 
+
+If you are using a dehydrator to dry seeds for the first time, consider running the dehydrator for one hour at a time so you can check the drying progress. In a humid climate, air-dried seeds may only need two or three hours in the dehydrator before going into long-term storage.
 
 ## Storing squash seeds
 
