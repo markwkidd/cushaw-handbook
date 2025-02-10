@@ -40,22 +40,24 @@
     {%- assign img-link = img-src -%}
 {%- endif -%}
 
-<figure class="image-figure {% if include.thumbnail == "true" %} thumbnail{%- endif -%}{% if include.caption %} captioned{%- endif -%}">
+<div class="image-figure-wrap">
+    <figure class="image-figure {% if include.thumbnail == "true" %} thumbnail{%- endif -%}{% if include.caption %} captioned{%- endif -%}">
 {%- if img-link -%}
-    <a href="{{- img-link -}}">
+        <a href="{{- img-link -}}">
 {%- endif -%}
-        <img
-            src="{{- img-src -}}"
-            alt="{%- if include.alt -%}{{- include.alt -}}{%- else -%}WARNING: ALT TEXT NOT FOUND{%- endif -%}"
-            class="content-image-figure"
-            {%- if img-style == true %}
-                style="{%- if include.width -%}width: {{- include.width -}};{%- endif -%}{%- if include.height -%}height: {{- include.height -}};{%- endif -%}"
-            {% endif -%}
-        >
+            <img
+                src="{{- img-src -}}"
+                alt="{%- if include.alt -%}{{- include.alt -}}{%- else -%}WARNING: ALT TEXT NOT FOUND{%- endif -%}"
+                class="content-image-figure"
+                {%- if img-style == true %}
+                    style="{%- if include.width -%}width: {{- include.width -}};{%- endif -%}{%- if include.height -%}height: {{- include.height -}};{%- endif -%}"
+                {% endif -%}
+            >
 {%- if img-link -%}
-    </a>
+        </a>
 {%- endif -%}
 {% if include.caption %}
-    <figcaption class="image-caption">{{-include.caption-}}</figcaption>
+        <figcaption class="image-caption">{{-include.caption-}}</figcaption>
 {%- endif -%}
-</figure>
+    </figure>
+</div>

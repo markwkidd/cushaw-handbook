@@ -119,12 +119,24 @@ ul.nav-list .nav-list-item .nav-list-link {
 }
 
 .main-content {
+
+  div.image-figure-wrap {
+    padding: 0;
+    height: 20rem;
+  }
+
   figure.captioned {
     background-color: $adaptation-tan;
   }
 
   figure {
       padding: 0;
+
+      img {
+        height: 100%;
+        width: 100%;
+        object-fit: contain;
+      }
 
       figcaption {
           padding: 0 0.4rem 0.4rem 0.4rem;
