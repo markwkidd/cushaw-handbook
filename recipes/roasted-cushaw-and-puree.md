@@ -90,7 +90,6 @@ Because the rind of a hardshell squash fruit does not soften as much with roasti
 {% include embed_image.html
     src="assets/images/recipes/cut-fruit-with-seeds-350w.jpg"
     alt="Saved seeds in a colander."
-    caption="If the fruit is of good quality, consider [saving the seeds](https://goingtoseed.org/pages/processing-squash-seeds)."
     thumbnail="true"
 %}
 
