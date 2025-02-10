@@ -40,9 +40,7 @@
     {%- assign img-link = img-src -%}
 {%- endif -%}
 
-{% if include.caption %}
 <figure class="image-figure {% if include.thumbnail == "true" %} thumbnail{%- endif -%}">
-{%- endif -%}
 {%- if img-link -%}
     <a href="{{- img-link -}}">
 {%- endif -%}
@@ -59,5 +57,5 @@
 {%- endif -%}
 {% if include.caption %}
     <figcaption class="image-caption">{{-include.caption-}}</figcaption>
-</figure>
 {%- endif -%}
+</figure>
