@@ -10,6 +10,14 @@ nav_order: 0
 
 This guide is intended to help people grow and use tasty, nutritious cushaw squash. Some cushaws have been bred for tasty edible seed, and others for prolific summer squash or long-storing pumpkin characteristics. Some kinds of cushaw serve multiple roles.
 
+{% include embed_image.html
+    src="assets/images/zine-cover-408x528.jpg"
+    alt="Front cover of the printed zine version"
+    thumbnail="true"
+    link="zine-and-other-resources.html"
+    caption="Browse or download the zine version of this guide."
+%}
+
 ### What are cushaws?
 
 _Cushaw_, or _kershaw_, is the common name in English for the botanical species of squash _Cucurbita argyrosperma_. The cushaw was domesticated in Mexico and it has traditionally been grown in the approximate region from Nicaragua to the Southeastern United States.
@@ -17,13 +25,6 @@ _Cushaw_, or _kershaw_, is the common name in English for the botanical species 
 ## Getting Started
 
 The cushaw cultivation guide begins with [Growing cushaws]({% link growing/index.md %}).
-
-{% include embed_image.html
-    src="assets/images/zine-cover-408x528.jpg"
-    alt="Front cover of the printed zine version"
-    thumbnail="true"
-    link="zine-and-other-resources.html"
-%}
 
 ### Zine version
 
