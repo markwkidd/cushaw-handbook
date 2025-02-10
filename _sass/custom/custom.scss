@@ -146,6 +146,10 @@ ul.nav-list .nav-list-item .nav-list-link {
 
 }
 
+p.note-title > p:first-child, blockquote.note-title > p:first-child {
+	font-size: 1rem;
+}
+
 hr {
   background-color: $orange-lighter;
   clear: right; // clear floating images
