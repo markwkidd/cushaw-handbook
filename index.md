@@ -23,11 +23,13 @@ The cushaw cultivation guide begins with [Growing cushaws]({% link growing/index
 {% include embed_image.html
     src="assets/images/zine-cover-408x528.jpg"
     alt="Front cover of the printed zine version"
+    thumbnail="true"
     link="resources.html"
-    width="33%"
 %}
 
 An abridged version of this guide is available in printable zine format [on the resources page]({% link resources.md %}).
+
+---
 
 ## About this project
 
