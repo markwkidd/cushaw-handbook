@@ -7,13 +7,6 @@ nav_order: 6
 
 # Cushaw recipe collection
 
-PLACEHOLDER
-
-Introductory comments about recipes
-
-{: .idea }
-> Raw squash fruit can be cleaned and frozen for later use.
-
 ## Recipe inspiration
 
 - [7 Ways to Use All of Your Pumpkin Plant](https://ourpermaculturelife.com/7-ways-to-use-all-of-your-pumpkin-plant/)
