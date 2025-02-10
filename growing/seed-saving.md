@@ -14,6 +14,11 @@ Individual squash fruits are ready for seed harvesting by 60 days after the frui
 
 If frost or other issues do force early harvesting, seeds can continue to develop after harvest if left inside the fruit. A publication from Maine Organic Farmers and Gardeners offers minimum recommended timelines for squash fruit and seed maturation: [Harvesting Winter Squash for Flavor and Storage](https://www.mofga.org/resources/crops/harvesting-winter-squash-for-flavor-and-storage/). If your fruit may not have mature seeds yet, consider waiting to process the seeds for a month or two after harvest.
 
+{: .note-title }
+> Recommendation: Taste fruits first
+>
+> Taste at least one fruit from any plant that you are saving seeds from. Squash flavor can be evaluated either raw, or cooked without butter or seasoning. 
+
 ## Processing seeds
 
 Going to Seed has published [a standalone guide to saving squash seeds](https://goingtoseed.org/pages/processing-squash-seeds) which offers two overall options depending on your preferences and circumstances. Both the 'dry' and 'wet' processes can be used with cushaw seeds.

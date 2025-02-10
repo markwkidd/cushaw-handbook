@@ -10,12 +10,7 @@ nav_order: 40
 
 This section explores ways to identify exceptional plants among the population (a process known as "selection"). In order to understand how selection relates to sexual propagation in squash, this section incorporates concepts related to manual and open pollination.
 
-## What is Selection?
-
-![A young C. argyrosperma cushaw fruit grows on the vine]( {{ '/assets/images/growing/immature-argyrosperma-fruit-200w.jpg' | relative_url }} ){:class="float-right-third"}
-
 In this guide, "selection" refers to actions taken by the gardener to choose which plants should be prioritized, which might be manually "crossed" together in the pursuit of a hybrid, and which plants should be culled or eliminated.
-
 
 ## Not many fruits?
 
@@ -23,14 +18,9 @@ If you are just starting to grow cushaws, you may only harvest one or two fruits
 
 In subsequent years with more fruit to choose from, the grower can be more selective. In the future, with more fruit to choose from, a grower can choose to prioritize saving seeds from the tastiest and earliest fruit, or those plants that are hardiest in their ecosystem, or the plants that have the tastiest or most beautiful foliage.
 
-{: .note-title }
-> Recommendation: Taste fruits first
->
-> Taste at least one fruit from any plant that you are saving seeds from. Squash flavor can be evaluated either raw, or cooked without butter or seasoning. 
-
 ## Maintaining genetic diversity in an adaptive population
 
-If you are planning to enjoy the cushaw fruit as food, you may not be processing all of your squash at one time. You may instead be processing seeds at several points through the winter as you use the fruit in your kitchen. Winter squash cushaws are often stored for several months before use; how long the fruit can be stored at culinary quality is one of the attributes that is often important when making selections for seed saving.
+If you are planning to enjoy the cushaw fruit as a winter squash, you may not be processing all of your fruit at one time. You may instead be processing seeds at several points through the winter as you use the fruit in your kitchen. Winter squash cushaws are often stored for several months before use; how long the fruit can be stored at culinary quality is one of the attributes that is often important when making selections for seed saving.
 
 If you have a variety of mature fruit to choose from, it's best to not let any single fruit's seeds dominate next season's mix. Consider the total number of seeds you want to save and aim for a proportional mix from different fruits. The best fruit should contribute more seeds, and fruit that only met minimum standards should contribute proportionally fewer seeds.
 
@@ -38,15 +28,13 @@ Bear in mind that some fruit will naturally contain many seeds while others will
 
 ### Selection for an established variety
 
-Whether you are maintaining an existing heirloom variety or a diverse landrace of plants, the work of selection is focused on elimination -- or "roguing" -- plants with undesirable characteristics, while making sure to save ample seed from plants which do exemplify the variety.
+The work of selection is focused two processes: elimination -- or "roguing" -- plants with undesirable characteristics, and making sure to save ample seed from plants which do have the desired attributes.
 
 ### Selection for a new variety
 
 When developing or improving a genetic line, selection might instead be focused on what to include. In this scenario it is most important to identify and prioritize plants that stand out from the rest in positive ways.
 
 ## Selecting cushaws
-
-If you are maintaining an existing variety or taking part in a community seed program, there may be certain characteristics that you are hoping to include or exclude from your squash.
 
 These are some cushaw squash traits that the grower can consider during the course of the season:
 
