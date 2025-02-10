@@ -14,6 +14,11 @@ Cushaws are not frost tolerant. Seedlings thrive in late spring and early summer
 
 It may be useful to try to find out if there are traditional times recommended to plant winter squash in your area. Winter squash cushaws require 60 days after fertilization in order to produce viable seeds, but producing high quality flesh often requires additional time on the vine. Work backwards from the date of fall frost danger to ensure you plant the cushaws with enough time to mature.
 
+{: .note-title }
+> Imitate nature's defense with succession sowing
+>
+> Wild seeds often germinate over a longer period of time than domesticated crops, and staggered germination can help protect from pests. Some gardeners mimic this trait by sowing seeds every week or two during planting season.
+
 ## Site
 
 Vines need at least 6 hours of direct sun daily. A little of shade can help. Growers in cool climates can locate their cushaw planting to maximize sun exposure. In the northern hemisphere this would be a southern exposure.

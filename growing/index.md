@@ -4,8 +4,9 @@ layout: home
 has_children: true
 nav_order: 4
 ---
+# Growing cushaws
 
-# Profile
+## Crop profile
 
 - **Days from planting to harvest**: 60 for summer squash, 90-120 for winter squash and seeds.
 - **Planting dates:** After the last danger of frost, when soil reaches 60° Fahrenheit.

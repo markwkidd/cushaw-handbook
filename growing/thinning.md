@@ -10,12 +10,6 @@ nav_order: 30
 
 This section will focus on managing the number and density of seedlings by prioritizing exceptional plants. Remember that culled immature fruit can be eaten as summer squash.
 
-## Imitate nature with succession sowing 
-
-Wild plant species often have seeds which naturally germinate at different times. As a gardener, you can mimic nature by staggering your plantings with succession sowing. In some places with high pressure from pests, it can be useful to preemptively sow seeds every week or two during the season.
-
-In places with less consistent pressure, you might hold back a quarter or half of your seeds for the year to plant in case your seedlings are unexpectedly eaten, or killed by weather conditions.
-
 ## When to thin
 
 ![A young C. argyrosperma cushaw fruit grows on the vine]( {{ '/assets/images/growing/immature-argyrosperma-fruit-200w.jpg' | relative_url }} ){:class="float-right-third"}
