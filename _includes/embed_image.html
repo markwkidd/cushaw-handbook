@@ -26,15 +26,15 @@
 {%- if downcase-src contains "http" -%}
     {%- assign img-src = downcase-src -%}
 {%- else -%}
-    {%- assign img-src = downcase-src | url | prepend: "/" -%}
+    {% assign img-src = downcase-src | relative_url %}
 {%- endif -%}
 
 {%- if include.link -%}
-    {%- assign downcase.link = include.link | downcase -%}
-    {%- if downcase.link | downcase contains "http" -%}
-        {%- assign img-link = downcase.link -%}
+    {%- assign downcase-link = include.link | downcase -%}
+    {%- if downcase-link contains "http" -%}
+        {%- assign img-link = downcase-link -%}
     {%- else -%}
-        {%- assign img-link = downcase-link | url | prepend: "/" -%}
+        {% assign img-link = downcase-link | relative_url %}
     {%- endif -%}
 {%- elsif include.thumbnail == "true" -%}
     {%- assign img-link = img-src -%}
