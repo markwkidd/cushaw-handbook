@@ -21,7 +21,7 @@ The cushaw cultivation guide begins with [Growing cushaws]({% link growing/index
 ### Zine version
 
 {% include embed_image.html
-    url="assets/images/zine-cover-408x528.jpg"
+    src="assets/images/zine-cover-408x528.jpg"
     alt="Front cover of the printed zine version"
     thumbnail="true"
     link="resources.md"
