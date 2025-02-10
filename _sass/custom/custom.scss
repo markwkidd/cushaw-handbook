@@ -121,6 +121,7 @@ ul.nav-list .nav-list-item .nav-list-link {
 .main-content {
 
   figure {
+      height: 10rem;
       padding: 0;
       background-color: $adaptation-tan;
 
@@ -152,7 +153,6 @@ footer {
 .clear-right {
   clear: right;
 }
-
 
 blockquote, p.note, p.warning, p.important, p.idea {
   clear: right;           // callouts will appear below floating photos, like h1 and h2
