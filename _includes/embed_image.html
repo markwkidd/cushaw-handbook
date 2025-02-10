@@ -40,8 +40,8 @@
     {%- assign img-link = img-src -%}
 {%- endif -%}
 
-<div class="image-figure-wrap">
-    <figure class="image-figure {% if include.thumbnail == "true" %} thumbnail{%- endif -%}{% if include.caption %} captioned{%- endif -%}">
+<div class="image-figure-wrap {% if include.thumbnail == "true" %} thumbnail{%- endif -%}">
+    <figure class="image-figure {% if include.caption %} captioned{%- endif -%}">
 {%- if img-link -%}
         <a href="{{- img-link -}}">
 {%- endif -%}
