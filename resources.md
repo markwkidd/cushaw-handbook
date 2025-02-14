@@ -15,3 +15,13 @@ You can browse the embedded digital copy of the zine below, or access one of the
 - <a href="/assets/commonwealth-cushaw-zine-bifold-2025-02-14-printable-bifold.pdf">Formatted for printing</a>. It uses both sides of 8 1/2" x 11" letter size paper, folded in half and stapled. 
 
 <iframe allowfullscreen="allowfullscreen" scrolling="no" class="fp-iframe" style="border: 1px solid lightgray; width: 100%; height: 30rem;" src="https://heyzine.com/flip-book/c5d5b4b224.html"></iframe>
+
+{% include embed_image.html
+    src="assets/images/zine-cover-400x420.jpg"
+    alt="Front cover of the printed zine version"
+    thumbnail="true"
+    link="https://heyzine.com/flip-book/c5d5b4b224.html"
+    caption="The interactive digital version is formatted by HeyZine"
+%}
+
+The paper version of the zine was processed for printing with [Zine Arranger by Nash High](https://nashhigh.itch.io/zinearranger). The [digital flipbook is formatted by HeyZine](https://heyzine.com/flip-book/c5d5b4b224.html).

@@ -15,7 +15,7 @@ This guide is intended to help people grow and use tasty, nutritious cushaw squa
 _Cushaw_, or _kershaw_, is the common name in English for the botanical species of squash _Cucurbita argyrosperma_. The cushaw was domesticated in Mexico and it has traditionally been grown in the approximate region from Nicaragua to the Southeastern United States.
 
 {% include embed_image.html
-    src="assets/images/zine-cover-408x528.jpg"
+    src="assets/images/zine-cover-400x420.jpg"
     alt="Front cover of the printed zine version"
     thumbnail="true"
     link="zine-and-other-resources.html"
