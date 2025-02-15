@@ -18,7 +18,7 @@ _Cushaw_, or _kershaw_, is the common name in English for the botanical species 
     src="assets/images/zine-cover-1200x1400.jpg"
     alt="Front cover of the printed zine version"
     thumbnail="true"
-    link="zine-and-other-resources.html"
+    link="/resources"
     caption="Browse or download the zine version of this guide."
 %}
 
