@@ -29,6 +29,20 @@ In general, cushaws will thrive under similar conditions to other squash. They w
 
 Cushaw vines can benefit from fertile soil and amendments like aged compost, but they are traditionally grown with minimal amendments, treatments, or irrigation. Soil pH between 6 and 8 allows cushaws to make the best use of nutrients, but they can grow outside that range.
 
+### Local seeds and microbial allies: A powerful partnership
+
+{% include embed_image.html
+    src="assets/images/growing/microbial-course-cover.jpg"
+    alt="A cross section showing extensive roots under a seedling"
+    thumbnail="true"
+    caption="Free Course: How Microbes Help Local Adaptation"
+    link="https://goingtoseed.org/products/1734455"
+%}
+
+Throughout its life, a plant builds partnerships with millions of microscopic allies. Plant roots release chemicals to attract fungi that improve water and mineral access, bacteria that fight off diseases, and other allies it finds in local soil.
+
+When we save seeds, the seeds incorporate microbial allies, giving the next generation an advantage when planted in the same garden. You can learn more about this topic in a free course from Going to Seed, [How Microbes Help Local Adaptation](https://goingtoseed.org/products/1734455).
+
 ## Final spacing
 
 Cushaws usually have a vine habit, and vines can reach 50 feet long. They are often planted in 6-foot rows, spaced 3 feet apart, or planted in hills spread 6 feet apart.

@@ -16,7 +16,9 @@ If you have more garden space in another location, you might also relocate some 
 
 When to evaluate. Most seedlings seem healthy while they are nourished by their cotyledons. Vigor becomes more apparent once seedlings develop two pairs of true leaves and begin to metabolize their own nutrients.
 
-## Diversity
+Later in the season, the work of thinning transitions to the work of _Selection_: identifying the most promising squash seeds for the next season.
+
+## Positive traits
 
 Positive traits that are evident at this stage of development include:
 
@@ -24,7 +26,11 @@ Positive traits that are evident at this stage of development include:
 - Green leaves with no yellowing, browning, or insect damage.
 - Vigorous growth.
 
-In addition to prioritizing these traits, also look for differences between plants, and encourage diversity among healthy seedlings. Some vines will be better able to resist pests and make good fruit in your conditions. Later in the season, the work of thinning transitions to the work of _Selection_: identifying the most promising squash seeds for the next season.
+### The power of diversity
+
+In addition to prioritizing these traits, also look for differences between plants, and encourage diversity among healthy seedlings. Some vines will be better able to resist pests and make good fruit in your conditions. 
+
+Some plants will be better able to resist pests and make good fruit in your conditions. The surest way to find out which is to grow diverse populations. Growers of traditional landrace varieties judiciously embrace cross-pollination to develop robust and resilient crops that adapt to local conditions. This guide has been created to help growers cultivate cushaws using traditional "landrace" adaptation practices.
 
 ## How to thin
 
@@ -34,11 +40,13 @@ Use scissors or secateurs to cut the vine just above the soil to avoid disturbin
 
 ## Squash harvests begin with thinned plants 
 
-Squash plants can provide you with food even before the first fruit has matured. If you’ve been fortunate and have too many seedlings, try eating the culled plants.
+Squash plants can provide you with food even before the first fruit has matured. If you’ve been fortunate and have too many seedlings, try eating the culled plants. The section on _Harvesting_ includes more information about using the cushaw plants for shoots and greens.
 
-- Squash vine tips are clipped and used as greens in cooking.
-- Both male and female flowers are eaten in several ways.
-- Immature fruits can be eaten as summer squash during the season, or when frosts are in the forecast and not all fruit will reach maturity.
+## Gallery
 
-- [7 Ways to Use All of Your Pumpkin Plant](https://ourpermaculturelife.com/7-ways-to-use-all-of-your-pumpkin-plant/)
-- [Stir-Fried Pumpkin Stems](https://recipeyum.com.au/asian-stir-fried-pumpkin-stems/)
+{% include embed_image.html
+    src="assets/images/growing/argyrosperma-thinning-size.jpg"
+    alt="A healthy young vine with two sets of true leaves"
+    thumbnail="true"
+    caption="A healthy young vine has just produced its second set of true leaves. This vine would be kept if there is room."
+%}

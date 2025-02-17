@@ -8,12 +8,16 @@ nav_order: 50
 
 # Harvesting
 
-![A young C. argyrosperma cushaw fruit grows on the vine](../../assets/images/growing/immature-argyrosperma-fruit-200w.jpg "Sprawling young cushaw vine"){:class="float-right-third"}
-
-Many parts of squash plants are edible, which means the harvest can begin early in the season.
-
 {: .important }
 > Handling raw squash triggers dermatitis or "squash hands" for some people.
+
+![A young C. argyrosperma cushaw fruit grows on the vine](../../assets/images/growing/immature-argyrosperma-fruit-200w.jpg "Sprawling young cushaw vine"){:class="float-right-third"}
+
+Many parts of squash plants are edible, which means the harvest can begin early in the season:
+
+- Squash vine tips are clipped and used as greens in cooking.
+- Both male and female flowers are eaten in several ways.
+- Immature fruits can be eaten as summer squash during the season, or when frosts are in the forecast and not all fruit will reach maturity.
 
 ## Blossoms, leaves, and vines
 Cushaw blossoms can be enjoyed raw or cooked throughout the season. Young leaves and tips of the vines are also eaten.
