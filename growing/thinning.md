@@ -42,11 +42,11 @@ Use scissors or secateurs to cut the vine just above the soil to avoid disturbin
 
 Squash plants can provide you with food even before the first fruit has matured. If you’ve been fortunate and have too many seedlings, try eating the culled plants. The section on _Harvesting_ includes more information about using the cushaw plants for shoots and greens.
 
-## Gallery
+## Image gallery
 
 {% include embed_image.html
     src="assets/images/growing/c-argyrosperma-thinning-size.jpg"
     alt="A healthy young vine with two sets of true leaves"
-    thumbnail="true"
+    mode="gallery"
     caption="A healthy young vine has just produced its second set of true leaves. This vine would be kept if there is room."
 %}

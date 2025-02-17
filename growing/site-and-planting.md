@@ -34,7 +34,7 @@ Cushaw vines can benefit from fertile soil and amendments like aged compost, but
 {% include embed_image.html
     src="assets/images/growing/microbial-course-cover.jpg"
     alt="A cross section showing extensive roots under a seedling"
-    thumbnail="true"
+    mode="thumbnail"
     caption="Free Course: How Microbes Help Local Adaptation"
     link="https://goingtoseed.org/products/1734455"
 %}

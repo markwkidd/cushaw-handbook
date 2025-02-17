@@ -62,39 +62,39 @@ Winter squash cushaws can be cut and frozen raw. You might store a large fruit f
 {: .important }
 >Select for good "winter squash" traits such as good eating quality and long storage by saving seeds from the best-tasting, longest-lasting fruits.
 
-## Gallery
+## Image gallery
 
 {% include embed_image.html
     src="assets/images/growing/immature-c-argyrosperma-fruit-early.jpg"
     alt="A young C. argyrosperma cushaw fruit grows on the vine with female flower still attached."
-    thumbnail="true"
+    mode="gallery"
     caption="An immature cushaw near the earliest possible use as a summer squash"
 %}
 
 {% include embed_image.html
     src="assets/images/growing/immature-c-argyrosperma-fruit-late.jpg"
     alt="A young C. argyrosperma cushaw fruit grows on the vine"
-    thumbnail="true"
+    mode="gallery"
     caption="An immature cushaw near the end of the harvest window for use as summer squash."
 %}
 
 {% include embed_image.html
     src="assets/images/growing/c-argyrosperma-near-harvest.jpg"
     alt="A cushaw nears full size, hanging from the vine"
-    thumbnail="true"
+    mode="gallery"
     caption="The peduncle is starting to turn corky, but is still fleshy and hydrated. Therefore the fruit is not fully mature."
 %}
 
 {% include embed_image.html
     src="assets/images/growing/c-argyrosperma-harvest-peduncle.jpg"
     alt="A corky cushaw peduncle, 2 inches long, on a squash in storage"
-    thumbnail="true"
+    mode="gallery"
     caption="1-3 inches of peduncle should be left attached to each harvested fruit."
 %}
 
 {% include embed_image.html
     src="assets/images/growing/c-argyrsperma-fruit-in-storage.jpg"
     alt="A loose pile of cushaw squash in storage"
-    thumbnail="true"
+    mode="gallery"
     caption="Cushaw squash stored indoors over the winter."
 %}

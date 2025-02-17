@@ -61,18 +61,18 @@ Pollen is transferred by insects or humans from male flowers to female flowers i
 
 [Sprouted Garden has a useful article about squash pollination](https://sproutedgarden.com/hand-pollinate-squash/), including manual pollination, with side-by-side photos of female and male flowers. Pollination information written for any of the domesticated squash species in the Cucurbita genus can be applied to cushaws.
 
-## Gallery
+## Image gallery
 
 {% include embed_image.html
     src="assets/images/growing/c-argyrosperma-male-flower.jpg"
     alt="Male cushaw flower on the vine"
     caption="This male flower of C. argyrosperma could be collected for manual pollination."
-    thumbnail="true"
+    mode="gallery"
 %}
 
 {% include embed_image.html
     src="assets/images/growing/immature-c-argyrosperma-fruit-early.jpg"
     alt="Very young cushaw fruit with flower still attached"
     caption="The female flower can be identified because it grows with the fruit attached. This flower was likely  fertilized within the last 48 hours."
-    thumbnail="true"
+    mode="gallery"
 %}

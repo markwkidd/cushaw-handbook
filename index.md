@@ -13,7 +13,7 @@ This guide is intended to help people grow, use, and save seeds from tasty, nutr
 {% include embed_image.html
     src="assets/images/zine-cover-1200x1400.jpg"
     alt="Front cover of the printed zine version"
-    thumbnail="true"
+    mode="thumbnail"
     link="/resources"
     caption="Browse or download the zine version of this guide."
 %}

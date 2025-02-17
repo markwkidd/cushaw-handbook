@@ -56,54 +56,54 @@ Raw squash pieces and puree can both be frozen. For a large winter squash fruit,
     src="assets/images/growing/c-argyrosperma-cut-fruit-with-seeds.jpg"
     alt="Saved seeds in a colander."
     caption="Saving the seeds from fruits with good qualities."
-    thumbnail="true"
+    mode="gallery"
 %}
 
 {% include embed_image.html
     src="assets/images/recipes/roasted-cushaw-puree/cut-cushaw-neck.jpg"
     alt="The cut neck of a large cushaw squash fruit"
     caption="The dense flesh of the neck is processed separately from the flesh around the seed cavity."
-    thumbnail="true"
+    mode="gallery"
 %}
 
 {% include embed_image.html
     src="assets/images/recipes/roasted-cushaw-puree/cushaw-pumpkin-pieces.jpg"
     alt="The cut neck of a large cushaw squash fruit."
     caption="The dense flesh of the neck is processed separately from the flesh around the seed cavity."
-    thumbnail="true"
+    mode="gallery"
 %}
 
 {% include embed_image.html
     src="assets/images/recipes/roasted-cushaw-puree/cutting-hardshell-cushaw.jpg"
     alt="Squash with hard shells are difficult to cut."
     caption="Cutting the flesh of a hardshell fruit starting from the inside allows the cook to use their hands to split the pieces if the knife doesn't completely separate the rind."
-    thumbnail="true"
+    mode="gallery"
 %}
 
 {% include embed_image.html
     src="assets/images/recipes/roasted-cushaw-puree/pre-roasting-cushaw-tray.jpg"
     alt="Pieces of cut squash, coated in oil and salt, laid with the inside down on aluminum foil or parchment paper."
     caption="Place the fruit pieces with the inside down on paper or aluminum foil plus a light coating of oil and salt."
-    thumbnail="true"
+    mode="gallery"
 %}
 
 {% include embed_image.html
     src="assets/images/recipes/roasted-cushaw-puree/roasted-cushaw-tray.jpg"
     alt="Roasted cushaw pieces after approximately an hour roasting in the oven."
     caption="These cushaw pieces are finished roasting."
-    thumbnail="true"
+    mode="gallery"
 %}
 
 {% include embed_image.html
     src="assets/images/recipes/roasted-cushaw-puree/scooping-cushaw-puree.jpg"
     alt="Scooping roasted cushaw into bowl."
     caption="A large spoon, or in this case an ice cream scoop, can be used to separate the cooked flesh."
-    thumbnail="true"
+    mode="gallery"
 %}
 
 {% include embed_image.html
     src="assets/images/recipes/roasted-cushaw-puree/cushaw-puree-in-freezer-bag.jpg"
     alt="Finished cushaw puree in a labelled freezer bag."
     caption="Surplus puree can be frozen for later use."
-    thumbnail="true"
+    mode="gallery"
 %}

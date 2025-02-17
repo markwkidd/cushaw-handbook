@@ -50,5 +50,5 @@ Pies should be stored in the refrigerator and will keep for a few days. You can 
     src="/assets/images/recipes/cushaw-pumpkin-pie/cushaw-pumpkin-pie.jpg"
     alt="Two cushaw pumpkin pies cooling in the oven."
     caption="In areas where cushaws are traditionally grown they are often the 'pumpkin' in pumpkin pies."
-    thumbnail="true"
+    mode="gallery"
 %}
