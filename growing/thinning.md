@@ -45,7 +45,7 @@ Squash plants can provide you with food even before the first fruit has matured.
 ## Gallery
 
 {% include embed_image.html
-    src="assets/images/growing/argyrosperma-thinning-size.jpg"
+    src="assets/images/growing/c-argyrosperma-thinning-size.jpg"
     alt="A healthy young vine with two sets of true leaves"
     thumbnail="true"
     caption="A healthy young vine has just produced its second set of true leaves. This vine would be kept if there is room."

@@ -47,13 +47,6 @@ One option is to tie strips of bright cloth or bright-colored survey flagging ta
 
 ## Squash genetics and pollination
 
-{% include embed_image.html
-    src="assets/images/growing/argyrosperma-male-flower-jl.jpg"
-    alt="A young C. argyrosperma cushaw fruit grows on the vine"
-    caption="This male flower of C. argyrosperma could be collected for manual pollination."
-    thumbnail="true"
-%}
-
 If you have two or more plants which demonstrate exceptional characteristics, you might consider manually cross pollinating them.
 
 Squash plants have separate male and female flowers, and usually both types can be found on healthy adult squash plants. The ‘mother’ flower contributes the unfertilized fruit which develops between the flower and the stem. The ‘father’ flower is attached to the vine by a long stem and appears earlier than female flowers, and can be on the same plant or another plant.
@@ -67,3 +60,19 @@ Squash plants have separate male and female flowers, and usually both types can 
 Pollen is transferred by insects or humans from male flowers to female flowers in order to start fruit development. Without pollination, the immature fruit will eventually wither and fall off the plant. The seeds are the 'babies' (sometimes called the F1 generation) that develop in the fruit (ovary) of the female plant. Because the seed coat comes from the mother, all the seeds look the same. But inside, each carries a unique combination of its mother’s and father’s genes.
 
 [Sprouted Garden has a useful article about squash pollination](https://sproutedgarden.com/hand-pollinate-squash/), including manual pollination, with side-by-side photos of female and male flowers. Pollination information written for any of the domesticated squash species in the Cucurbita genus can be applied to cushaws.
+
+## Gallery
+
+{% include embed_image.html
+    src="assets/images/growing/c-argyrosperma-male-flower.jpg"
+    alt="Male cushaw flower on the vine"
+    caption="This male flower of C. argyrosperma could be collected for manual pollination."
+    thumbnail="true"
+%}
+
+{% include embed_image.html
+    src="assets/images/growing/immature-c-argyrosperma-fruit-early.jpg"
+    alt="Very young cushaw fruit with flower still attached"
+    caption="The female flower can be identified because it grows with the fruit attached. This flower was likely  fertilized within the last 48 hours."
+    thumbnail="true"
+%}
