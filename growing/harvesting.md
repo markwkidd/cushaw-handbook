@@ -11,8 +11,6 @@ nav_order: 50
 {: .important }
 > Handling raw squash triggers dermatitis or "squash hands" for some people.
 
-![A young C. argyrosperma cushaw fruit grows on the vine](../../assets/images/growing/immature-argyrosperma-fruit-200w.jpg "Sprawling young cushaw vine"){:class="float-right-third"}
-
 Many parts of squash plants are edible, which means the harvest can begin early in the season:
 
 - Squash vine tips are clipped and used as greens in cooking.
@@ -63,3 +61,40 @@ Winter squash cushaws can be cut and frozen raw. You might store a large fruit f
 
 {: .important }
 >Select for good "winter squash" traits such as good eating quality and long storage by saving seeds from the best-tasting, longest-lasting fruits.
+
+## Gallery
+
+{% include embed_image.html
+    src="assets/images/growing/immature-c-argyrosperma-fruit-early.jpg"
+    alt="A young C. argyrosperma cushaw fruit grows on the vine with female flower still attached."
+    thumbnail="true"
+    caption="An immature cushaw near the earliest possible use as a summer squash"
+%}
+
+{% include embed_image.html
+    src="assets/images/growing/immature-c-argyrosperma-fruit-late.jpg"
+    alt="A young C. argyrosperma cushaw fruit grows on the vine"
+    thumbnail="true"
+    caption="An immature cushaw near the end of the harvest window for use as summer squash."
+%}
+
+{% include embed_image.html
+    src="assets/images/growing/c-argyrosperma-near-harvest.jpg"
+    alt="A cushaw nears full size, hanging from the vine"
+    thumbnail="true"
+    caption="The peduncle is starting to turn corky, but is still fleshy and hydrated. Therefore the fruit is not fully mature."
+%}
+
+{% include embed_image.html
+    src="assets/images/growing/c-argyrosperma-harvest-peduncle.jpg"
+    alt="A corky cushaw peduncle, 2 inches long, on a squash in storage"
+    thumbnail="true"
+    caption="1-3 inches of peduncle should be left attached to each harvested fruit."
+%}
+
+{% include embed_image.html
+    src="assets/images/growing/c-argyrsperma-fruit-in-storage.jpg"
+    alt="A loose pile of cushaw squash in storage"
+    thumbnail="true"
+    caption="Cushaw squash stored indoors over the winter."
+%}

@@ -8,9 +8,6 @@ nav_order: 40
 
 # Cushaw Pumpkin Pie
 
-![Two cushaw pumpkin pies cooling in the oven]( {{ '/assets/images/recipes/cushaw-pumpkin-pie/cushaw-pumpkin-pie-thumbnail.jpg' | relative_url }} )
-{:class="float-right-third"}
-
 There is a long tradition of baking desert pies from cushaw squash. In some areas, cushaws are even known as 'pie pumpkins'.
 
 This recipe comes to us by way of Wheelersburg, Ohio, from Mark Kidd's grandmother. Grandma Gleim received the recipe in a community cookbook, titled "Peter's Pumpkin Pie". This recipe may have been historically created or promoted by a condensed milk brand.
@@ -46,3 +43,12 @@ This recipe calls for cushaw puree. [A recipe for cushaw puree](../roasted-cusha
 4. Cool the pie completely before cutting and serving. Garnish if desired with whipped cream and nuts.
 
 Pies should be stored in the refrigerator and will keep for a few days. You can also freeze a pie immediately after it cools down by wrapping the pie tightly in layers of plastic wrap.
+
+## Gallery
+
+{% include embed_image.html
+    src="/assets/images/recipes/cushaw-pumpkin-pie/cushaw-pumpkin-pie.jpg"
+    alt="Two cushaw pumpkin pies cooling in the oven."
+    caption="In areas where cushaws are traditionally grown they are often the 'pumpkin' in pumpkin pies."
+    thumbnail="true"
+%}
