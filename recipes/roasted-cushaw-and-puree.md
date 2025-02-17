@@ -53,7 +53,7 @@ Raw squash pieces and puree can both be frozen. For a large winter squash fruit,
 ## Image gallery
 
 {% include embed_image.html
-    src="assets/images/recipes/cut-fruit-with-seeds.jpg"
+    src="assets/images/growing/c-argyrosperma-cut-fruit-with-seeds.jpg"
     alt="Saved seeds in a colander."
     caption="Saving the seeds from fruits with good qualities."
     thumbnail="true"
