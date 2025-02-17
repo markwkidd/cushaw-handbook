@@ -14,8 +14,6 @@ Cushaws can often be grown with minimal irrigation or inputs like fertilizer, he
 
 ### What are cushaws?
 
-_Cushaw_, or _kershaw_, is the common name in English for the botanical species of squash _Cucurbita argyrosperma_. The cushaw was domesticated in Mexico and it has traditionally been grown in the approximate region from Nicaragua to the Southeastern United States. The Commonwealth Cushaw Project began in the mountains of Eastern Kentucky where cushaw squash has been an important winter "storage crop" since before memory.
-
 {% include embed_image.html
     src="assets/images/zine-cover-1200x1400.jpg"
     alt="Front cover of the printed zine version"
@@ -23,6 +21,8 @@ _Cushaw_, or _kershaw_, is the common name in English for the botanical species 
     link="/resources"
     caption="Browse or download the zine version of this guide."
 %}
+
+_Cushaw_, or _kershaw_, is the common name in English for the botanical species of squash _Cucurbita argyrosperma_. The cushaw was domesticated in Mexico and it has traditionally been grown in the approximate region from Nicaragua to the Southeastern United States. The Commonwealth Cushaw Project began in the mountains of Eastern Kentucky where cushaw squash has been an important winter "storage crop" since before memory.
 
 ## Getting Started
 
