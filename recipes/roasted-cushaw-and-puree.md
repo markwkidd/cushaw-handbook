@@ -10,15 +10,11 @@ nav_order: 10
 
 Oven-roasting is a foundation for many winter squash recipes. The roasting process is the same for winter squash cushaws as other species of squash.
 
+{: .warning }
+Because the rind of a hardshell squash fruit does not soften as much with roasting, be careful to avoid getting pieces of shell into the puree if yours has a hard shell.
+
 ## Freezing
 Raw squash pieces and puree can both be frozen. For a large winter squash fruit, a cook might store the fruit for a few months whole at room temperature. Then when the squash is first needed, the cook might prepare half of it, and freeze the other half either raw or as puree.
-
-{% include embed_image.html
-    src="assets/images/recipes/cut-fruit-with-seeds.jpg"
-    alt="Saved seeds in a colander."
-    caption="Saving the seeds for fruits with good qualities."
-    thumbnail="true"
-%}
 
 ## Ingredients
 
@@ -54,22 +50,26 @@ Raw squash pieces and puree can both be frozen. For a large winter squash fruit,
 
 7. The the edges of a squash piece will brown when the piece is fully roasted. One it cools, use a scoop to separate the flesh from the rind. Then use a potato masher, food processor, or other approach to mix the flesh until it reaches puree consistency.
 
-{: .warning }
-Because the rind of a hardshell squash fruit does not soften as much with roasting, be careful to avoid getting pieces of shell into the puree if yours has a hard shell.
-
 ## Image gallery
+
+{% include embed_image.html
+    src="assets/images/recipes/cut-fruit-with-seeds.jpg"
+    alt="Saved seeds in a colander."
+    caption="Saving the seeds from fruits with good qualities."
+    thumbnail="true"
+%}
 
 {% include embed_image.html
     src="assets/images/recipes/roasted-cushaw-puree/cut-cushaw-neck.jpg"
     alt="The cut neck of a large cushaw squash fruit"
-    caption="The dense flesh of the neck is generally processed separately from the flesh around the seed cavity."
+    caption="The dense flesh of the neck is processed separately from the flesh around the seed cavity."
     thumbnail="true"
 %}
 
 {% include embed_image.html
     src="assets/images/recipes/roasted-cushaw-puree/cushaw-pumpkin-pieces.jpg"
     alt="The cut neck of a large cushaw squash fruit."
-    caption="The dense flesh of the neck is generally processed separately from the flesh around the seed cavity."
+    caption="The dense flesh of the neck is processed separately from the flesh around the seed cavity."
     thumbnail="true"
 %}
 
