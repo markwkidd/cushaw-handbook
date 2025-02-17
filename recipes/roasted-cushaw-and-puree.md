@@ -14,7 +14,7 @@ Oven-roasting is a foundation for many winter squash recipes. The roasting proce
 Raw squash pieces and puree can both be frozen. For a large winter squash fruit, a cook might store the fruit for a few months whole at room temperature. Then when the squash is first needed, the cook might prepare half of it, and freeze the other half either raw or as puree.
 
 {% include embed_image.html
-    src="assets/images/recipes/cut-fruit-with-seeds-350w.jpg"
+    src="assets/images/recipes/cut-fruit-with-seeds.jpg"
     alt="Saved seeds in a colander."
     caption="Saving the seeds for fruits with good qualities."
     thumbnail="true"
@@ -60,49 +60,49 @@ Because the rind of a hardshell squash fruit does not soften as much with roasti
 ## Image gallery
 
 {% include embed_image.html
-    src="assets/images/recipes/roasted-cushaw-puree/cut-cushaw-neck-thumbnail.jpg"
+    src="assets/images/recipes/roasted-cushaw-puree/cut-cushaw-neck.jpg"
     alt="The cut neck of a large cushaw squash fruit"
     caption="The dense flesh of the neck is generally processed separately from the flesh around the seed cavity."
     thumbnail="true"
 %}
 
 {% include embed_image.html
-    src="assets/images/recipes/roasted-cushaw-puree/cushaw-pumpkin-pieces-thumbnail.jpg"
+    src="assets/images/recipes/roasted-cushaw-puree/cushaw-pumpkin-pieces.jpg"
     alt="The cut neck of a large cushaw squash fruit."
     caption="The dense flesh of the neck is generally processed separately from the flesh around the seed cavity."
     thumbnail="true"
 %}
 
 {% include embed_image.html
-    src="assets/images/recipes/roasted-cushaw-puree/cutting-hardshell-cushaw-thumbnail.jpg"
+    src="assets/images/recipes/roasted-cushaw-puree/cutting-hardshell-cushaw.jpg"
     alt="Squash with hard shells are difficult to cut."
     caption="Cutting the flesh of a hardshell fruit starting from the inside allows the cook to use their hands to split the pieces if the knife doesn't completely separate the rind."
     thumbnail="true"
 %}
 
 {% include embed_image.html
-    src="assets/images/recipes/roasted-cushaw-puree/pre-roasting-cushaw-tray-thumbnail.jpg"
+    src="assets/images/recipes/roasted-cushaw-puree/pre-roasting-cushaw-tray.jpg"
     alt="Pieces of cut squash, coated in oil and salt, laid with the inside down on aluminum foil or parchment paper."
     caption="Place the fruit pieces with the inside down on paper or aluminum foil plus a light coating of oil and salt."
     thumbnail="true"
 %}
 
 {% include embed_image.html
-    src="assets/images/recipes/roasted-cushaw-puree/roasted-cushaw-tray-thumbnail.jpg"
+    src="assets/images/recipes/roasted-cushaw-puree/roasted-cushaw-tray.jpg"
     alt="Roasted cushaw pieces after approximately an hour roasting in the oven."
     caption="These cushaw pieces are finished roasting."
     thumbnail="true"
 %}
 
 {% include embed_image.html
-    src="assets/images/recipes/roasted-cushaw-puree/scooping-cushaw-puree-thumbnail.jpg"
+    src="assets/images/recipes/roasted-cushaw-puree/scooping-cushaw-puree.jpg"
     alt="Scooping roasted cushaw into bowl."
     caption="A large spoon, or in this case an ice cream scoop, can be used to separate the cooked flesh."
     thumbnail="true"
 %}
 
 {% include embed_image.html
-    src="assets/images/recipes/roasted-cushaw-puree/cushaw-puree-in-freezer-bag-thumbnail.jpg"
+    src="assets/images/recipes/roasted-cushaw-puree/cushaw-puree-in-freezer-bag.jpg"
     alt="Finished cushaw puree in a labelled freezer bag."
     caption="Surplus puree can be frozen for later use."
     thumbnail="true"
