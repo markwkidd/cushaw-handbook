@@ -41,6 +41,7 @@
 {%- endif -%}
 
 <div class="image-figure-wrap {% if include.thumbnail == "true" %} thumbnail{%- endif -%}">
+
     <figure class="image-figure {% if include.caption %}captioned{%- endif -%}">
 {%- if img-link -%}
         <a href="{{- img-link -}}">
@@ -56,8 +57,18 @@
 {%- if img-link -%}
         </a>
 {%- endif -%}
+
 {% if include.caption %}
-        <figcaption class="image-caption">{{-include.caption-}}</figcaption>
+        <figcaption class="image-caption">
+{%- if img-link -%}
+            <a href="{{- img-link -}}">
 {%- endif -%}
+                {{-include.caption-}}
+{%- if img-link -%}
+            </a>
+{%- endif -%}  
+        </figcaption>
+{%- endif -%}
+
     </figure>
 </div>
