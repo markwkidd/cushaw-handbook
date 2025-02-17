@@ -40,7 +40,7 @@
     {%- assign img-link = img-src -%}
 {%- endif -%}
 
-<div class="image-figure-wrap {% if include.thumbnail == "true" %} thumbnail{%- endif -%}">
+<div class="image-figure-wrap {%- if include.thumbnail == "true" %} thumbnail{%- endif -%} {%- if include.gallery == "true" %} gallery{%- endif -%}">
 
     <figure class="image-figure {% if include.caption %}captioned{%- endif -%}">
 {%- if img-link -%}
