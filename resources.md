@@ -17,6 +17,7 @@ You can browse the embedded digital copy of the zine below, or access one of the
 <iframe allowfullscreen="allowfullscreen" scrolling="no" class="fp-iframe" style="border: 1px solid lightgray; width: 100%; height: 30rem;" src="https://heyzine.com/flip-book/c5d5b4b224.html"></iframe>
 
 ### How was it made?
+
 {% include embed_image.html
     src="assets/images/zine-cover-cropped-1400x430.jpg"
     alt="Front cover of the printed zine version"

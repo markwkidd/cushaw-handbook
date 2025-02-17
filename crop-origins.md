@@ -7,6 +7,8 @@ nav_order: 2
 
 # Crop origins
 
+Cushaw squash has been grown in Kentucky for thousands of years. The Commonwealth Cushaw Project began in Eastern Kentucky, where cushaw squash are an important traditional crop that is still still grown in many gardens for sharing and sale at local markets.
+
 {: .note }
 > The following content was adapted from the Wikipedia article [Cucurbita argyrosperma](https://wikipedia.org/Cucurbita_argyrosperma). Unlike other parts of this guide that are offered without a Creative Commons "Share Alike" clause, the Wikipedia content is licensed with a [CC BY-SA license](https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_Creative_Commons_Attribution-ShareAlike_4.0_International_License).
 
