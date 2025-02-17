@@ -30,7 +30,8 @@ Positive traits that are evident at this stage of development include:
 
 In addition to prioritizing these traits, also look for differences between plants, and encourage diversity among healthy seedlings. Some vines will be better able to resist pests and make good fruit in your conditions. 
 
-Some plants will be better able to resist pests and make good fruit in your conditions. The surest way to find out which is to grow diverse populations. Growers of traditional landrace varieties judiciously embrace cross-pollination to develop robust and resilient crops that adapt to local conditions. This guide has been created to help growers cultivate cushaws using traditional "landrace" adaptation practices.
+Some plants will be better able to resist pests and make good fruit in your conditions. The surest way to find out which is to grow diverse populations. This guide offers practices and philosophy for cultivating cushaws using traditional "landrace" approaches. Landrace growers  judiciously embrace cross-pollination to develop and maintain  robust, resilient crops that adapt to local conditions.
+
 
 ## How to thin
 
