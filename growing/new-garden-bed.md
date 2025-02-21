@@ -62,15 +62,15 @@ While these instructions do not address all aspects of establishing new garden b
 ## Image gallery
 
 {% include embed_image.html
-    src="assets/images/growing/notill-cardboard-site-prep.jpg"
-    alt="A late winter garden site being prepared for cardboard."
-    mode="gallery"
-    caption="Laying down cardboard during the winter months for use the following spring and summer."
-%}
-
-{% include embed_image.html
     src="assets/images/growing/notill-cardboard-squash-seedlings.jpg"
     alt="Squash seedlings planted into a bed covered with cardboard."
     mode="gallery"
     caption="The cardboard only needs to be removed from the spots being planted with seeds or starts."
+%}
+
+{% include embed_image.html
+    src="assets/images/growing/notill-cardboard-site-prep.jpg"
+    alt="A late winter garden site being prepared for cardboard."
+    mode="gallery"
+    caption="Laying down cardboard during the winter months for use the following spring and summer."
 %}
