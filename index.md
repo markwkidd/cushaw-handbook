@@ -11,7 +11,7 @@ nav_order: 0
 This guide is intended to help people grow, use, and save seeds from tasty, nutritious cushaw squash. Some cushaws have been bred for tasty edible seed, and others for prolific summer squash or long-storing pumpkin characteristics. Many varieties of cushaw serve multiple roles.
 
 {% include embed_image.html
-    src="assets/images/zine-cover-1200x1400.jpg"
+    src="assets/zine/zine-cover-1200x1400.jpg"
     alt="Front cover of the printed zine version"
     mode="thumbnail"
     link="/resources"
