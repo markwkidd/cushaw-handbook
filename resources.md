@@ -40,7 +40,7 @@ In 2025, the project received support allowing a small print run of booklets wit
 6. Fold the whole stack in half left-to-right and staple the spine.
 
 {% include embed_image.html
-    src="assets/zine/quarters-zine-folding.png
+    src="assets/zine/quarters-zine-folding.png"
     alt="Illustrated folding instructions"
 %}
 
