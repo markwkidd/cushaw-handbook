@@ -40,6 +40,7 @@ In 2025, the project received support allowing a small print run of booklets wit
 {% include embed_image.html
     src="assets/zine/quarters-zine-folding.png"
     alt="Illustrated folding instructions"
+    width="66%"
 %}
 
 ### How was it made?
