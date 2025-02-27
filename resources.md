@@ -28,9 +28,7 @@ You can browse the embedded digital copy of the zine below, or access one of the
 
 ### Quarter-page version 
 
-In 2025, the project received support allowing a small print run of booklets with pages one-quarter the size of a US letter page. Copies can be produced by using this file:
-
-- <a href="/assets/zine/commonwealth-cushaw-zine-bifold-2025-02-27-printable-bifold.pdf">Formatted for printing with settings "print on both sides of paper" and "flip on short edge"</a>. It uses both sides of 8 1/2" x 11" letter size paper, folded in half and stapled. 
+In 2025, the project received support allowing a small print run of booklets with pages one-quarter the size of a US letter page. Copies can be produced by using this file: <a href="/assets/zine/commonwealth-cushaw-zine-bifold-2025-02-27-printable-bifold.pdf">Quarter-page printable PDF</a>
 
 1. Print with the following settings: "print on both sides" and "flip on long side".
 2. Keep sheets stacked in the order they printed.
