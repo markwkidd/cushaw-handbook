@@ -24,7 +24,7 @@ You can browse this embedded digital copy of the zine, or access one of the down
 ## Printable versions
 
 - <a href="/assets/zine/commonwealth-cushaw-zine-2025-02-27.pdf">Plain copy with one page per sheet</a>.
-- <a href="/assets/zine/commonwealth-cushaw-zine-2025-02-27-printable-bifold.pdf">Formatted for printing with settings "print on both sides of paper" and "flip on short edge"</a>. It uses both sides of 8 1/2" x 11" letter size paper, folded in half and stapled. 
+- <a href="/assets/zine/commonwealth-cushaw-zine-2025-02-27-printable-bifold.pdf">Bifold booklet formatted for printing with settings "print on both sides of paper" and "flip on short edge"</a>. It uses both sides of 8 1/2" x 11" letter size paper, folded in half and stapled. 
 
 ### Quarter-page version 
 
