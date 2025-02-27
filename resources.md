@@ -32,12 +32,12 @@ In 2025, the project received support allowing a small print run of booklets wit
 
 - <a href="/assets/zine/commonwealth-cushaw-zine-bifold-2025-02-27-printable-bifold.pdf">Formatted for printing with settings "print on both sides of paper" and "flip on short edge"</a>. It uses both sides of 8 1/2" x 11" letter size paper, folded in half and stapled. 
 
-- Print with the following settings: "print on both sides" and "flip on long side".
-- Keep sheets stacked in the order they printed.
-- Lay the pile with the front cover at the top right.
-- Cut the entire pile in half horizontally.
-- Stack the top pile on top of the bottom. The front & back covers should be on top.
-- Fold the whole stack in half left-to-right and staple the spine.
+1. Print with the following settings: "print on both sides" and "flip on long side".
+2. Keep sheets stacked in the order they printed.
+3. Lay the pile with the front cover at the top right.
+4. Cut the entire pile in half horizontally.
+5. Stack the top pile on top of the bottom. The front & back covers should be on top.
+6. Fold the whole stack in half left-to-right and staple the spine.
 
 {% include embed_image.html
     src="assets/zine/quarters-zine-folding.png
