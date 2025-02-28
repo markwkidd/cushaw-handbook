@@ -32,7 +32,9 @@ The cushaw cultivation guide begins with [Growing cushaws]({% link growing/index
 
 An abridged version of this guide is available in printable zine format [on the resources page]({% link resources.md %}).
 
----
+### Register as a grower
+
+We request that cushaw growers who received seeds from this project and those who intend to contribute seeds register for occasional project updates. [Please enter your address in the registration form](https://cushawguide.handbarrow.org/updates-seed-returns/#register-for-project-updates).
 
 ## About this project
 
