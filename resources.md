@@ -2,7 +2,7 @@
 title: Zine and other resources
 layout: default
 has_children: false
-nav_order: 40
+nav_order: 100
 ---
 
 # Zine and other resources
