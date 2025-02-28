@@ -1,5 +1,5 @@
 ---
-title: Returning seeds
+title: Project updates and seed returns
 layout: default
 has_children: false
 nav_order: 50
@@ -22,3 +22,10 @@ The following information will be helpful when sharing your seeds:
 - Email or phone.
 - Describe the parent plants or fruits with any significant traits.
  
+ ## Register for project updates
+
+Please register your email address in order to receive occasional project updates, such as updates about seed availability and returns or the content of the guide.
+
+You can complete the form by visiting [https://forms.gle/gvT7EKWkbwRdwSoZ9](https://forms.gle/gvT7EKWkbwRdwSoZ9) or using the embedded version below.
+
+ <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSehcArH8e7gi6b9PO7hHJA6tKRTu9Evj5wgpmi2n4WD2dzW7w/viewform?embedded=true" width="640" height="1258" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
