@@ -5,7 +5,9 @@ has_children: false
 nav_order: 50
 ---
 
-# Returning seeds
+# Project updates and seed returns
+
+## Returning seeds
 
 Community seed projects succeed when gardeners share seeds from successful plants. Sharing is central to the ongoing, ancient work to maintain diverse, locally-adapted crops around the world.
 
@@ -22,9 +24,9 @@ The following information will be helpful when sharing your seeds:
 - Email or phone.
 - Describe the parent plants or fruits with any significant traits.
  
- ## Register for project updates
+## Register for project updates
 
-Please register your email address in order to receive occasional project updates, such as updates about seed availability and returns or the content of the guide.
+Please register your email address in order to receive occasional project updates, such as seed availability and seed returns, or any significant updates to the content of the guide.
 
 You can complete the form by visiting [https://forms.gle/gvT7EKWkbwRdwSoZ9](https://forms.gle/gvT7EKWkbwRdwSoZ9) or using the embedded version below.
 
