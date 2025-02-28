@@ -2,7 +2,7 @@
 title: Project updates and seed returns
 layout: default
 has_children: false
-nav_order: 50
+nav_order: 5
 ---
 
 # Project updates and seed returns
